@@ -1,0 +1,268 @@
+[
+    {
+        "id_provinsi": 1,
+        "nama_provinsi": "Aceh",
+        "slug": "aceh",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 19:18:07"
+    },
+    {
+        "id_provinsi": 2,
+        "nama_provinsi": "Bali",
+        "slug": "bali",
+        "pulau": "Bali",
+        "created_at": "2026-05-13 19:33:11"
+    },
+    {
+        "id_provinsi": 3,
+        "nama_provinsi": "Banten",
+        "slug": "banten",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 19:35:35"
+    },
+    {
+        "id_provinsi": 4,
+        "nama_provinsi": "Bengkulu",
+        "slug": "bengkulu",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 19:42:07"
+    },
+    {
+        "id_provinsi": 5,
+        "nama_provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "daerah-istimewa-yogyakarta",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 19:46:58"
+    },
+    {
+        "id_provinsi": 6,
+        "nama_provinsi": "DKI Jakarta",
+        "slug": "dki-jakarta",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 19:49:29"
+    },
+    {
+        "id_provinsi": 7,
+        "nama_provinsi": "Gorontalo",
+        "slug": "gorontalo",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 19:50:45"
+    },
+    {
+        "id_provinsi": 8,
+        "nama_provinsi": "Jambi",
+        "slug": "jambi",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 19:53:08"
+    },
+    {
+        "id_provinsi": 9,
+        "nama_provinsi": "Jawa Barat",
+        "slug": "jawa-barat",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 19:57:38"
+    },
+    {
+        "id_provinsi": 10,
+        "nama_provinsi": "Jawa Tengah",
+        "slug": "jawa-tengah",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 20:14:16"
+    },
+    {
+        "id_provinsi": 11,
+        "nama_provinsi": "Jawa Timur",
+        "slug": "jawa-timur",
+        "pulau": "Jawa",
+        "created_at": "2026-05-13 20:31:54"
+    },
+    {
+        "id_provinsi": 12,
+        "nama_provinsi": "Kalimantan Barat",
+        "slug": "kalimantan-barat",
+        "pulau": "Kalimantan",
+        "created_at": "2026-05-13 20:51:20"
+    },
+    {
+        "id_provinsi": 13,
+        "nama_provinsi": "Kalimantan Selatan",
+        "slug": "kalimantan-selatan",
+        "pulau": "Kalimantan",
+        "created_at": "2026-05-13 20:57:24"
+    },
+    {
+        "id_provinsi": 14,
+        "nama_provinsi": "Kalimantan Tengah",
+        "slug": "kalimantan-tengah",
+        "pulau": "Kalimantan",
+        "created_at": "2026-05-13 21:02:42"
+    },
+    {
+        "id_provinsi": 15,
+        "nama_provinsi": "Kalimantan Timur",
+        "slug": "kalimantan-timur",
+        "pulau": "Kalimantan",
+        "created_at": "2026-05-13 21:06:55"
+    },
+    {
+        "id_provinsi": 16,
+        "nama_provinsi": "Kalimantan Utara",
+        "slug": "kalimantan-utara",
+        "pulau": "Kalimantan",
+        "created_at": "2026-05-13 21:09:58"
+    },
+    {
+        "id_provinsi": 17,
+        "nama_provinsi": "Kepulauan Bangka Belitung",
+        "slug": "kepulauan-bangka-belitung",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 21:11:32"
+    },
+    {
+        "id_provinsi": 18,
+        "nama_provinsi": "Kepulauan Riau",
+        "slug": "kepulauan-riau",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 21:12:56"
+    },
+    {
+        "id_provinsi": 19,
+        "nama_provinsi": "Lampung",
+        "slug": "lampung",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 21:14:59"
+    },
+    {
+        "id_provinsi": 20,
+        "nama_provinsi": "Maluku",
+        "slug": "maluku",
+        "pulau": "Maluku",
+        "created_at": "2026-05-13 21:21:50"
+    },
+    {
+        "id_provinsi": 21,
+        "nama_provinsi": "Maluku Utara",
+        "slug": "maluku-utara",
+        "pulau": "Maluku",
+        "created_at": "2026-05-13 21:25:04"
+    },
+    {
+        "id_provinsi": 22,
+        "nama_provinsi": "Nusa Tenggara Barat",
+        "slug": "nusa-tenggara-barat",
+        "pulau": "Nusa Tenggara",
+        "created_at": "2026-05-13 21:28:00"
+    },
+    {
+        "id_provinsi": 23,
+        "nama_provinsi": "Nusa Tenggara Timur",
+        "slug": "nusa-tenggara-timur",
+        "pulau": "Nusa Tenggara",
+        "created_at": "2026-05-13 21:30:54"
+    },
+    {
+        "id_provinsi": 24,
+        "nama_provinsi": "Papua",
+        "slug": "papua",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:39:22"
+    },
+    {
+        "id_provinsi": 25,
+        "nama_provinsi": "Papua Barat",
+        "slug": "papua-barat",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:41:59"
+    },
+    {
+        "id_provinsi": 26,
+        "nama_provinsi": "Papua Barat Daya",
+        "slug": "papua-barat-daya",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:44:06"
+    },
+    {
+        "id_provinsi": 27,
+        "nama_provinsi": "Papua Pegunungan",
+        "slug": "papua-pegunungan",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:47:08"
+    },
+    {
+        "id_provinsi": 28,
+        "nama_provinsi": "Papua Selatan",
+        "slug": "papua-selatan",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:53:39"
+    },
+    {
+        "id_provinsi": 29,
+        "nama_provinsi": "Papua Tengah",
+        "slug": "papua-tengah",
+        "pulau": "Papua",
+        "created_at": "2026-05-13 21:55:42"
+    },
+    {
+        "id_provinsi": 30,
+        "nama_provinsi": "Riau",
+        "slug": "riau",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 21:58:52"
+    },
+    {
+        "id_provinsi": 31,
+        "nama_provinsi": "Sulawesi Barat",
+        "slug": "sulawesi-barat",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 22:03:25"
+    },
+    {
+        "id_provinsi": 32,
+        "nama_provinsi": "Sulawesi Selatan",
+        "slug": "sulawesi-selatan",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 22:05:10"
+    },
+    {
+        "id_provinsi": 33,
+        "nama_provinsi": "Sulawesi Tengah",
+        "slug": "sulawesi-tengah",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 22:13:39"
+    },
+    {
+        "id_provinsi": 34,
+        "nama_provinsi": "Sulawesi Tenggara",
+        "slug": "sulawesi-tenggara",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 22:18:51"
+    },
+    {
+        "id_provinsi": 35,
+        "nama_provinsi": "Sulawesi Utara",
+        "slug": "sulawesi-utara",
+        "pulau": "Sulawesi",
+        "created_at": "2026-05-13 22:25:10"
+    },
+    {
+        "id_provinsi": 36,
+        "nama_provinsi": "Sumatera Barat",
+        "slug": "sumatera-barat",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 22:30:06"
+    },
+    {
+        "id_provinsi": 37,
+        "nama_provinsi": "Sumatera Selatan",
+        "slug": "sumatera-selatan",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 22:34:40"
+    },
+    {
+        "id_provinsi": 38,
+        "nama_provinsi": "Sumatera Utara",
+        "slug": "sumatera-utara",
+        "pulau": "Sumatera",
+        "created_at": "2026-05-13 22:42:10"
+    }
+]

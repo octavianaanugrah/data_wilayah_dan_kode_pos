@@ -1,0 +1,4114 @@
+[
+    {
+        "id_kota": 1,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Barat",
+        "slug": "kabupaten-aceh-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:18:08"
+    },
+    {
+        "id_kota": 2,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Barat Daya",
+        "slug": "kabupaten-aceh-barat-daya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:18:47"
+    },
+    {
+        "id_kota": 3,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Besar",
+        "slug": "kabupaten-aceh-besar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:19:12"
+    },
+    {
+        "id_kota": 4,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Jaya",
+        "slug": "kabupaten-aceh-jaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:20:23"
+    },
+    {
+        "id_kota": 5,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Selatan",
+        "slug": "kabupaten-aceh-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:20:44"
+    },
+    {
+        "id_kota": 6,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Singkil",
+        "slug": "kabupaten-aceh-singkil",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:21:24"
+    },
+    {
+        "id_kota": 7,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Tamiang",
+        "slug": "kabupaten-aceh-tamiang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:21:46"
+    },
+    {
+        "id_kota": 8,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Tengah",
+        "slug": "kabupaten-aceh-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:22:15"
+    },
+    {
+        "id_kota": 9,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Tenggara",
+        "slug": "kabupaten-aceh-tenggara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:22:54"
+    },
+    {
+        "id_kota": 10,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Timur",
+        "slug": "kabupaten-aceh-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:23:47"
+    },
+    {
+        "id_kota": 11,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Aceh Utara",
+        "slug": "kabupaten-aceh-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:25:02"
+    },
+    {
+        "id_kota": 12,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Bener Meriah",
+        "slug": "kabupaten-bener-meriah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:26:50"
+    },
+    {
+        "id_kota": 13,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Bireuen",
+        "slug": "kabupaten-bireuen",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:27:25"
+    },
+    {
+        "id_kota": 14,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Gayo Lues",
+        "slug": "kabupaten-gayo-lues",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:28:39"
+    },
+    {
+        "id_kota": 15,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Nagan Raya",
+        "slug": "kabupaten-nagan-raya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:29:06"
+    },
+    {
+        "id_kota": 16,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Pidie",
+        "slug": "kabupaten-pidie",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:29:37"
+    },
+    {
+        "id_kota": 17,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Pidie Jaya",
+        "slug": "kabupaten-pidie-jaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:31:09"
+    },
+    {
+        "id_kota": 18,
+        "id_provinsi": 1,
+        "nama_kota": "Kabupaten Simeulue",
+        "slug": "kabupaten-simeulue",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:31:40"
+    },
+    {
+        "id_kota": 19,
+        "id_provinsi": 1,
+        "nama_kota": "Kota Banda Aceh",
+        "slug": "kota-banda-aceh",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:32:06"
+    },
+    {
+        "id_kota": 20,
+        "id_provinsi": 1,
+        "nama_kota": "Kota Langsa",
+        "slug": "kota-langsa",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:32:26"
+    },
+    {
+        "id_kota": 21,
+        "id_provinsi": 1,
+        "nama_kota": "Kota Lhokseumawe",
+        "slug": "kota-lhokseumawe",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:32:39"
+    },
+    {
+        "id_kota": 22,
+        "id_provinsi": 1,
+        "nama_kota": "Kota Sabang",
+        "slug": "kota-sabang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:32:51"
+    },
+    {
+        "id_kota": 23,
+        "id_provinsi": 1,
+        "nama_kota": "Kota Subulussalam",
+        "slug": "kota-subulussalam",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:32:57"
+    },
+    {
+        "id_kota": 24,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Badung",
+        "slug": "kabupaten-badung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:33:12"
+    },
+    {
+        "id_kota": 25,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Bangli",
+        "slug": "kabupaten-bangli",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:33:25"
+    },
+    {
+        "id_kota": 26,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Buleleng",
+        "slug": "kabupaten-buleleng",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:33:37"
+    },
+    {
+        "id_kota": 27,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Gianyar",
+        "slug": "kabupaten-gianyar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:34:03"
+    },
+    {
+        "id_kota": 28,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Jembrana",
+        "slug": "kabupaten-jembrana",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:34:19"
+    },
+    {
+        "id_kota": 29,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Karangasem",
+        "slug": "kabupaten-karangasem",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:34:30"
+    },
+    {
+        "id_kota": 30,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Klungkung",
+        "slug": "kabupaten-klungkung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:34:50"
+    },
+    {
+        "id_kota": 31,
+        "id_provinsi": 2,
+        "nama_kota": "Kabupaten Tabanan",
+        "slug": "kabupaten-tabanan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:35:00"
+    },
+    {
+        "id_kota": 32,
+        "id_provinsi": 2,
+        "nama_kota": "Kota Denpasar",
+        "slug": "kota-denpasar",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:35:25"
+    },
+    {
+        "id_kota": 33,
+        "id_provinsi": 3,
+        "nama_kota": "Kabupaten Lebak",
+        "slug": "kabupaten-lebak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:35:36"
+    },
+    {
+        "id_kota": 34,
+        "id_provinsi": 3,
+        "nama_kota": "Kabupaten Pandeglang",
+        "slug": "kabupaten-pandeglang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:36:43"
+    },
+    {
+        "id_kota": 35,
+        "id_provinsi": 3,
+        "nama_kota": "Kabupaten Serang",
+        "slug": "kabupaten-serang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:37:58"
+    },
+    {
+        "id_kota": 36,
+        "id_provinsi": 3,
+        "nama_kota": "Kabupaten Tangerang",
+        "slug": "kabupaten-tangerang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:39:05"
+    },
+    {
+        "id_kota": 37,
+        "id_provinsi": 3,
+        "nama_kota": "Kota Cilegon",
+        "slug": "kota-cilegon",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:40:08"
+    },
+    {
+        "id_kota": 38,
+        "id_provinsi": 3,
+        "nama_kota": "Kota Serang",
+        "slug": "kota-serang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:40:24"
+    },
+    {
+        "id_kota": 39,
+        "id_provinsi": 3,
+        "nama_kota": "Kota Tangerang",
+        "slug": "kota-tangerang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:40:37"
+    },
+    {
+        "id_kota": 40,
+        "id_provinsi": 3,
+        "nama_kota": "Kota Tangerang Selatan",
+        "slug": "kota-tangerang-selatan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:41:47"
+    },
+    {
+        "id_kota": 41,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Bengkulu Selatan",
+        "slug": "kabupaten-bengkulu-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:42:10"
+    },
+    {
+        "id_kota": 42,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Bengkulu Tengah",
+        "slug": "kabupaten-bengkulu-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:42:39"
+    },
+    {
+        "id_kota": 43,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Bengkulu Utara",
+        "slug": "kabupaten-bengkulu-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:43:06"
+    },
+    {
+        "id_kota": 44,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Kaur",
+        "slug": "kabupaten-kaur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:43:48"
+    },
+    {
+        "id_kota": 45,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Kepahiang",
+        "slug": "kabupaten-kepahiang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:44:19"
+    },
+    {
+        "id_kota": 46,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Lebong",
+        "slug": "kabupaten-lebong",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:44:35"
+    },
+    {
+        "id_kota": 47,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Muko Muko",
+        "slug": "kabupaten-muko-muko",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:44:57"
+    },
+    {
+        "id_kota": 48,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Rejang Lebong",
+        "slug": "kabupaten-rejang-lebong",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:45:28"
+    },
+    {
+        "id_kota": 49,
+        "id_provinsi": 4,
+        "nama_kota": "Kabupaten Seluma",
+        "slug": "kabupaten-seluma",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:46:01"
+    },
+    {
+        "id_kota": 50,
+        "id_provinsi": 4,
+        "nama_kota": "Kota Bengkulu",
+        "slug": "kota-bengkulu",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:46:38"
+    },
+    {
+        "id_kota": 51,
+        "id_provinsi": 5,
+        "nama_kota": "Kabupaten Bantul",
+        "slug": "kabupaten-bantul",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:46:59"
+    },
+    {
+        "id_kota": 52,
+        "id_provinsi": 5,
+        "nama_kota": "Kabupaten Gunungkidul",
+        "slug": "kabupaten-gunungkidul",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:47:30"
+    },
+    {
+        "id_kota": 53,
+        "id_provinsi": 5,
+        "nama_kota": "Kabupaten Kulon Progo",
+        "slug": "kabupaten-kulon-progo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:48:11"
+    },
+    {
+        "id_kota": 54,
+        "id_provinsi": 5,
+        "nama_kota": "Kabupaten Sleman",
+        "slug": "kabupaten-sleman",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:48:37"
+    },
+    {
+        "id_kota": 55,
+        "id_provinsi": 5,
+        "nama_kota": "Kota Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:49:08"
+    },
+    {
+        "id_kota": 56,
+        "id_provinsi": 6,
+        "nama_kota": "Kabupaten Kepulauan Seribu",
+        "slug": "kabupaten-kepulauan-seribu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:49:29"
+    },
+    {
+        "id_kota": 57,
+        "id_provinsi": 6,
+        "nama_kota": "Kota Jakarta Barat",
+        "slug": "kota-jakarta-barat",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:49:32"
+    },
+    {
+        "id_kota": 58,
+        "id_provinsi": 6,
+        "nama_kota": "Kota Jakarta Pusat",
+        "slug": "kota-jakarta-pusat",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:49:46"
+    },
+    {
+        "id_kota": 59,
+        "id_provinsi": 6,
+        "nama_kota": "Kota Jakarta Selatan",
+        "slug": "kota-jakarta-selatan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:50:00"
+    },
+    {
+        "id_kota": 60,
+        "id_provinsi": 6,
+        "nama_kota": "Kota Jakarta Timur",
+        "slug": "kota-jakarta-timur",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:50:19"
+    },
+    {
+        "id_kota": 61,
+        "id_provinsi": 6,
+        "nama_kota": "Kota Jakarta Utara",
+        "slug": "kota-jakarta-utara",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:50:36"
+    },
+    {
+        "id_kota": 62,
+        "id_provinsi": 7,
+        "nama_kota": "Kabupaten Boalemo",
+        "slug": "kabupaten-boalemo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:50:46"
+    },
+    {
+        "id_kota": 63,
+        "id_provinsi": 7,
+        "nama_kota": "Kabupaten Bone Bolango",
+        "slug": "kabupaten-bone-bolango",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:50:59"
+    },
+    {
+        "id_kota": 64,
+        "id_provinsi": 7,
+        "nama_kota": "Kabupaten Gorontalo",
+        "slug": "kabupaten-gorontalo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:51:31"
+    },
+    {
+        "id_kota": 65,
+        "id_provinsi": 7,
+        "nama_kota": "Kabupaten Gorontalo Utara",
+        "slug": "kabupaten-gorontalo-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:52:10"
+    },
+    {
+        "id_kota": 66,
+        "id_provinsi": 7,
+        "nama_kota": "Kabupaten Pahuwato",
+        "slug": "kabupaten-pahuwato",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:52:31"
+    },
+    {
+        "id_kota": 67,
+        "id_provinsi": 7,
+        "nama_kota": "Kota Gorontalo",
+        "slug": "kota-gorontalo",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:52:53"
+    },
+    {
+        "id_kota": 68,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Batanghari",
+        "slug": "kabupaten-batanghari",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:53:09"
+    },
+    {
+        "id_kota": 69,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Bungo",
+        "slug": "kabupaten-bungo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:53:26"
+    },
+    {
+        "id_kota": 70,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Kerinci",
+        "slug": "kabupaten-kerinci",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:53:54"
+    },
+    {
+        "id_kota": 71,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Merangin",
+        "slug": "kabupaten-merangin",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:54:31"
+    },
+    {
+        "id_kota": 72,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Muaro Jambi",
+        "slug": "kabupaten-muaro-jambi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:55:14"
+    },
+    {
+        "id_kota": 73,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Sarolangun",
+        "slug": "kabupaten-sarolangun",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:55:36"
+    },
+    {
+        "id_kota": 74,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Tanjung Jabung Barat",
+        "slug": "kabupaten-tanjung-jabung-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:56:06"
+    },
+    {
+        "id_kota": 75,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Tanjung Jabung Timur",
+        "slug": "kabupaten-tanjung-jabung-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:56:29"
+    },
+    {
+        "id_kota": 76,
+        "id_provinsi": 8,
+        "nama_kota": "Kabupaten Tebo",
+        "slug": "kabupaten-tebo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:56:48"
+    },
+    {
+        "id_kota": 77,
+        "id_provinsi": 8,
+        "nama_kota": "Kota Jambi",
+        "slug": "kota-jambi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:57:09"
+    },
+    {
+        "id_kota": 78,
+        "id_provinsi": 8,
+        "nama_kota": "Kota Sungai Penuh",
+        "slug": "kota-sungai-penuh",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 19:57:25"
+    },
+    {
+        "id_kota": 79,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Bandung",
+        "slug": "kabupaten-bandung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:57:39"
+    },
+    {
+        "id_kota": 80,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Bandung Barat",
+        "slug": "kabupaten-bandung-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:58:31"
+    },
+    {
+        "id_kota": 81,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Bekasi",
+        "slug": "kabupaten-bekasi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:58:59"
+    },
+    {
+        "id_kota": 82,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Bogor",
+        "slug": "kabupaten-bogor",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 19:59:36"
+    },
+    {
+        "id_kota": 83,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Ciamis",
+        "slug": "kabupaten-ciamis",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:00:48"
+    },
+    {
+        "id_kota": 84,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Cianjur",
+        "slug": "kabupaten-cianjur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:01:34"
+    },
+    {
+        "id_kota": 85,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Cirebon",
+        "slug": "kabupaten-cirebon",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:02:33"
+    },
+    {
+        "id_kota": 86,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Garut",
+        "slug": "kabupaten-garut",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:03:42"
+    },
+    {
+        "id_kota": 87,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Indramayu",
+        "slug": "kabupaten-indramayu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:04:51"
+    },
+    {
+        "id_kota": 88,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Karawang",
+        "slug": "kabupaten-karawang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:05:44"
+    },
+    {
+        "id_kota": 89,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Kuningan",
+        "slug": "kabupaten-kuningan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:06:34"
+    },
+    {
+        "id_kota": 90,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Majalengka",
+        "slug": "kabupaten-majalengka",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:07:30"
+    },
+    {
+        "id_kota": 91,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Pangandaran",
+        "slug": "kabupaten-pangandaran",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:08:11"
+    },
+    {
+        "id_kota": 92,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Purwakarta",
+        "slug": "kabupaten-purwakarta",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:08:26"
+    },
+    {
+        "id_kota": 93,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Subang",
+        "slug": "kabupaten-subang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:08:51"
+    },
+    {
+        "id_kota": 94,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Sukabumi",
+        "slug": "kabupaten-sukabumi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:09:34"
+    },
+    {
+        "id_kota": 95,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Sumedang",
+        "slug": "kabupaten-sumedang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:10:40"
+    },
+    {
+        "id_kota": 96,
+        "id_provinsi": 9,
+        "nama_kota": "Kabupaten Tasikmalaya",
+        "slug": "kabupaten-tasikmalaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:11:21"
+    },
+    {
+        "id_kota": 97,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Bandung",
+        "slug": "kota-bandung",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:12:16"
+    },
+    {
+        "id_kota": 98,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Banjar",
+        "slug": "kota-banjar",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:12:54"
+    },
+    {
+        "id_kota": 99,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Bekasi",
+        "slug": "kota-bekasi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:01"
+    },
+    {
+        "id_kota": 100,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Bogor",
+        "slug": "kota-bogor",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:16"
+    },
+    {
+        "id_kota": 101,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Cimahi",
+        "slug": "kota-cimahi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:27"
+    },
+    {
+        "id_kota": 102,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Cirebon",
+        "slug": "kota-cirebon",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:31"
+    },
+    {
+        "id_kota": 103,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Depok",
+        "slug": "kota-depok",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:37"
+    },
+    {
+        "id_kota": 104,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Sukabumi",
+        "slug": "kota-sukabumi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:13:52"
+    },
+    {
+        "id_kota": 105,
+        "id_provinsi": 9,
+        "nama_kota": "Kota Tasikmalaya",
+        "slug": "kota-tasikmalaya",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:14:02"
+    },
+    {
+        "id_kota": 106,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Banjarnegara",
+        "slug": "kabupaten-banjarnegara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:14:17"
+    },
+    {
+        "id_kota": 107,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Banyumas",
+        "slug": "kabupaten-banyumas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:14:51"
+    },
+    {
+        "id_kota": 108,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Batang",
+        "slug": "kabupaten-batang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:15:37"
+    },
+    {
+        "id_kota": 109,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Blora",
+        "slug": "kabupaten-blora",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:16:08"
+    },
+    {
+        "id_kota": 110,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Boyolali",
+        "slug": "kabupaten-boyolali",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:16:43"
+    },
+    {
+        "id_kota": 111,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Brebes",
+        "slug": "kabupaten-brebes",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:17:21"
+    },
+    {
+        "id_kota": 112,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Cilacap",
+        "slug": "kabupaten-cilacap",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:17:56"
+    },
+    {
+        "id_kota": 113,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Demak",
+        "slug": "kabupaten-demak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:18:40"
+    },
+    {
+        "id_kota": 114,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Grobogan",
+        "slug": "kabupaten-grobogan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:19:09"
+    },
+    {
+        "id_kota": 115,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Jepara",
+        "slug": "kabupaten-jepara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:19:46"
+    },
+    {
+        "id_kota": 116,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Karanganyar",
+        "slug": "kabupaten-karanganyar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:20:14"
+    },
+    {
+        "id_kota": 117,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Kebumen",
+        "slug": "kabupaten-kebumen",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:20:43"
+    },
+    {
+        "id_kota": 118,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Kendal",
+        "slug": "kabupaten-kendal",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:21:37"
+    },
+    {
+        "id_kota": 119,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Klaten",
+        "slug": "kabupaten-klaten",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:22:14"
+    },
+    {
+        "id_kota": 120,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Kudus",
+        "slug": "kabupaten-kudus",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:23:04"
+    },
+    {
+        "id_kota": 121,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Magelang",
+        "slug": "kabupaten-magelang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:23:20"
+    },
+    {
+        "id_kota": 122,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Pati",
+        "slug": "kabupaten-pati",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:24:01"
+    },
+    {
+        "id_kota": 123,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Pekalongan",
+        "slug": "kabupaten-pekalongan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:24:43"
+    },
+    {
+        "id_kota": 124,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Pemalang",
+        "slug": "kabupaten-pemalang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:25:14"
+    },
+    {
+        "id_kota": 125,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Purbalingga",
+        "slug": "kabupaten-purbalingga",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:25:38"
+    },
+    {
+        "id_kota": 126,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Purworejo",
+        "slug": "kabupaten-purworejo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:26:09"
+    },
+    {
+        "id_kota": 127,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Rembang",
+        "slug": "kabupaten-rembang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:26:52"
+    },
+    {
+        "id_kota": 128,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Semarang",
+        "slug": "kabupaten-semarang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:27:21"
+    },
+    {
+        "id_kota": 129,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Sragen",
+        "slug": "kabupaten-sragen",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:27:52"
+    },
+    {
+        "id_kota": 130,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Sukoharjo",
+        "slug": "kabupaten-sukoharjo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:28:23"
+    },
+    {
+        "id_kota": 131,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Tegal",
+        "slug": "kabupaten-tegal",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:28:43"
+    },
+    {
+        "id_kota": 132,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Temanggung",
+        "slug": "kabupaten-temanggung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:29:15"
+    },
+    {
+        "id_kota": 133,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Wonogiri",
+        "slug": "kabupaten-wonogiri",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:29:49"
+    },
+    {
+        "id_kota": 134,
+        "id_provinsi": 10,
+        "nama_kota": "Kabupaten Wonosobo",
+        "slug": "kabupaten-wonosobo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:30:28"
+    },
+    {
+        "id_kota": 135,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Magelang",
+        "slug": "kota-magelang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:30:58"
+    },
+    {
+        "id_kota": 136,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Pekalongan",
+        "slug": "kota-pekalongan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:31:02"
+    },
+    {
+        "id_kota": 137,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Salatiga",
+        "slug": "kota-salatiga",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:31:08"
+    },
+    {
+        "id_kota": 138,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Semarang",
+        "slug": "kota-semarang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:31:14"
+    },
+    {
+        "id_kota": 139,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Surakarta",
+        "slug": "kota-surakarta",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:31:40"
+    },
+    {
+        "id_kota": 140,
+        "id_provinsi": 10,
+        "nama_kota": "Kota Tegal",
+        "slug": "kota-tegal",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:31:48"
+    },
+    {
+        "id_kota": 141,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Bangkalan",
+        "slug": "kabupaten-bangkalan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:31:55"
+    },
+    {
+        "id_kota": 142,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Banyuwangi",
+        "slug": "kabupaten-banyuwangi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:32:28"
+    },
+    {
+        "id_kota": 143,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Blitar",
+        "slug": "kabupaten-blitar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:33:04"
+    },
+    {
+        "id_kota": 144,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Bojonegoro",
+        "slug": "kabupaten-bojonegoro",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:33:38"
+    },
+    {
+        "id_kota": 145,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Bondowoso",
+        "slug": "kabupaten-bondowoso",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:34:29"
+    },
+    {
+        "id_kota": 146,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Gresik",
+        "slug": "kabupaten-gresik",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:35:08"
+    },
+    {
+        "id_kota": 147,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Jember",
+        "slug": "kabupaten-jember",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:35:50"
+    },
+    {
+        "id_kota": 148,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Jombang",
+        "slug": "kabupaten-jombang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:36:34"
+    },
+    {
+        "id_kota": 149,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Kediri",
+        "slug": "kabupaten-kediri",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:37:11"
+    },
+    {
+        "id_kota": 150,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Lamongan",
+        "slug": "kabupaten-lamongan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:37:56"
+    },
+    {
+        "id_kota": 151,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Lumajang",
+        "slug": "kabupaten-lumajang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:38:48"
+    },
+    {
+        "id_kota": 152,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Madiun",
+        "slug": "kabupaten-madiun",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:39:18"
+    },
+    {
+        "id_kota": 153,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Magetan",
+        "slug": "kabupaten-magetan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:39:43"
+    },
+    {
+        "id_kota": 154,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Malang",
+        "slug": "kabupaten-malang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:40:12"
+    },
+    {
+        "id_kota": 155,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Mojokerto",
+        "slug": "kabupaten-mojokerto",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:41:02"
+    },
+    {
+        "id_kota": 156,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Nganjuk",
+        "slug": "kabupaten-nganjuk",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:41:35"
+    },
+    {
+        "id_kota": 157,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Ngawi",
+        "slug": "kabupaten-ngawi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:42:08"
+    },
+    {
+        "id_kota": 158,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Pacitan",
+        "slug": "kabupaten-pacitan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:42:36"
+    },
+    {
+        "id_kota": 159,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Pamekasan",
+        "slug": "kabupaten-pamekasan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:42:57"
+    },
+    {
+        "id_kota": 160,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Pasuruan",
+        "slug": "kabupaten-pasuruan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:43:24"
+    },
+    {
+        "id_kota": 161,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Ponorogo",
+        "slug": "kabupaten-ponorogo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:44:13"
+    },
+    {
+        "id_kota": 162,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Probolinggo",
+        "slug": "kabupaten-probolinggo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:44:47"
+    },
+    {
+        "id_kota": 163,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Sampang",
+        "slug": "kabupaten-sampang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:45:29"
+    },
+    {
+        "id_kota": 164,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Sidoarjo",
+        "slug": "kabupaten-sidoarjo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:45:52"
+    },
+    {
+        "id_kota": 165,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Situbondo",
+        "slug": "kabupaten-situbondo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:46:31"
+    },
+    {
+        "id_kota": 166,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Sumenep",
+        "slug": "kabupaten-sumenep",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:46:56"
+    },
+    {
+        "id_kota": 167,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Trenggalek",
+        "slug": "kabupaten-trenggalek",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:47:46"
+    },
+    {
+        "id_kota": 168,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Tuban",
+        "slug": "kabupaten-tuban",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:48:15"
+    },
+    {
+        "id_kota": 169,
+        "id_provinsi": 11,
+        "nama_kota": "Kabupaten Tulungagung",
+        "slug": "kabupaten-tulungagung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:49:09"
+    },
+    {
+        "id_kota": 170,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Batu",
+        "slug": "kota-batu",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:49:45"
+    },
+    {
+        "id_kota": 171,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Blitar",
+        "slug": "kota-blitar",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:49:50"
+    },
+    {
+        "id_kota": 172,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Kediri",
+        "slug": "kota-kediri",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:49:55"
+    },
+    {
+        "id_kota": 173,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Madiun",
+        "slug": "kota-madiun",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:02"
+    },
+    {
+        "id_kota": 174,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Malang",
+        "slug": "kota-malang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:08"
+    },
+    {
+        "id_kota": 175,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Mojokerto",
+        "slug": "kota-mojokerto",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:18"
+    },
+    {
+        "id_kota": 176,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Pasuruan",
+        "slug": "kota-pasuruan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:23"
+    },
+    {
+        "id_kota": 177,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Probolinggo",
+        "slug": "kota-probolinggo",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:30"
+    },
+    {
+        "id_kota": 178,
+        "id_provinsi": 11,
+        "nama_kota": "Kota Surabaya",
+        "slug": "kota-surabaya",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:50:37"
+    },
+    {
+        "id_kota": 179,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Bengkayang",
+        "slug": "kabupaten-bengkayang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:51:20"
+    },
+    {
+        "id_kota": 180,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Kapuas Hulu",
+        "slug": "kabupaten-kapuas-hulu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:51:48"
+    },
+    {
+        "id_kota": 181,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Kayong Utara",
+        "slug": "kabupaten-kayong-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:52:28"
+    },
+    {
+        "id_kota": 182,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Ketapang",
+        "slug": "kabupaten-ketapang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:52:37"
+    },
+    {
+        "id_kota": 183,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Kubu Raya",
+        "slug": "kabupaten-kubu-raya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:53:14"
+    },
+    {
+        "id_kota": 184,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Landak",
+        "slug": "kabupaten-landak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:53:32"
+    },
+    {
+        "id_kota": 185,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Melawi",
+        "slug": "kabupaten-melawi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:54:20"
+    },
+    {
+        "id_kota": 186,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Mempawah",
+        "slug": "kabupaten-mempawah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:54:48"
+    },
+    {
+        "id_kota": 187,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Sambas",
+        "slug": "kabupaten-sambas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:55:06"
+    },
+    {
+        "id_kota": 188,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Sanggau",
+        "slug": "kabupaten-sanggau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:55:42"
+    },
+    {
+        "id_kota": 189,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Sekadau",
+        "slug": "kabupaten-sekadau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:56:09"
+    },
+    {
+        "id_kota": 190,
+        "id_provinsi": 12,
+        "nama_kota": "Kabupaten Sintang",
+        "slug": "kabupaten-sintang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:56:23"
+    },
+    {
+        "id_kota": 191,
+        "id_provinsi": 12,
+        "nama_kota": "Kota Pontianak",
+        "slug": "kota-pontianak",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:57:08"
+    },
+    {
+        "id_kota": 192,
+        "id_provinsi": 12,
+        "nama_kota": "Kota Singkawang",
+        "slug": "kota-singkawang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 20:57:17"
+    },
+    {
+        "id_kota": 193,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Balangan",
+        "slug": "kabupaten-balangan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:57:25"
+    },
+    {
+        "id_kota": 194,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Banjar",
+        "slug": "kabupaten-banjar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:57:47"
+    },
+    {
+        "id_kota": 195,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Barito Kuala",
+        "slug": "kabupaten-barito-kuala",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:58:36"
+    },
+    {
+        "id_kota": 196,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Hulu Sungai Selatan",
+        "slug": "kabupaten-hulu-sungai-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:59:09"
+    },
+    {
+        "id_kota": 197,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Hulu Sungai Tengah",
+        "slug": "kabupaten-hulu-sungai-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:59:30"
+    },
+    {
+        "id_kota": 198,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Hulu Sungai Utara",
+        "slug": "kabupaten-hulu-sungai-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 20:59:51"
+    },
+    {
+        "id_kota": 199,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Kotabaru",
+        "slug": "kabupaten-kotabaru",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:00:17"
+    },
+    {
+        "id_kota": 200,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Tabalong",
+        "slug": "kabupaten-tabalong",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:00:55"
+    },
+    {
+        "id_kota": 201,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Tanah Bumbu",
+        "slug": "kabupaten-tanah-bumbu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:01:17"
+    },
+    {
+        "id_kota": 202,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Tanah Laut",
+        "slug": "kabupaten-tanah-laut",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:01:39"
+    },
+    {
+        "id_kota": 203,
+        "id_provinsi": 13,
+        "nama_kota": "Kabupaten Tapin",
+        "slug": "kabupaten-tapin",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:02:02"
+    },
+    {
+        "id_kota": 204,
+        "id_provinsi": 13,
+        "nama_kota": "Kota Banjarbaru",
+        "slug": "kota-banjarbaru",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:02:26"
+    },
+    {
+        "id_kota": 205,
+        "id_provinsi": 13,
+        "nama_kota": "Kota Banjarmasin",
+        "slug": "kota-banjarmasin",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:02:32"
+    },
+    {
+        "id_kota": 206,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Barito Selatan",
+        "slug": "kabupaten-barito-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:02:44"
+    },
+    {
+        "id_kota": 207,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Barito Timur",
+        "slug": "kabupaten-barito-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:02:57"
+    },
+    {
+        "id_kota": 208,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Barito Utara",
+        "slug": "kabupaten-barito-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:03:15"
+    },
+    {
+        "id_kota": 209,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Gunung Mas",
+        "slug": "kabupaten-gunung-mas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:03:31"
+    },
+    {
+        "id_kota": 210,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Kapuas",
+        "slug": "kabupaten-kapuas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:03:52"
+    },
+    {
+        "id_kota": 211,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Katingan",
+        "slug": "kabupaten-katingan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:04:24"
+    },
+    {
+        "id_kota": 212,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Kotawaringin Barat",
+        "slug": "kabupaten-kotawaringin-barat",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:04:49"
+    },
+    {
+        "id_kota": 213,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Kotawaringin Timur",
+        "slug": "kabupaten-kotawaringin-timur",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:05:01"
+    },
+    {
+        "id_kota": 214,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Lamandau",
+        "slug": "kabupaten-lamandau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:05:30"
+    },
+    {
+        "id_kota": 215,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Murung Raya",
+        "slug": "kabupaten-murung-raya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:05:45"
+    },
+    {
+        "id_kota": 216,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Pulang Pisau",
+        "slug": "kabupaten-pulang-pisau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:06:04"
+    },
+    {
+        "id_kota": 217,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Seruyan",
+        "slug": "kabupaten-seruyan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:06:19"
+    },
+    {
+        "id_kota": 218,
+        "id_provinsi": 14,
+        "nama_kota": "Kabupaten Sukamara",
+        "slug": "kabupaten-sukamara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:06:37"
+    },
+    {
+        "id_kota": 219,
+        "id_provinsi": 14,
+        "nama_kota": "Kota Palangkaraya",
+        "slug": "kota-palangkaraya",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:06:47"
+    },
+    {
+        "id_kota": 220,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Berau",
+        "slug": "kabupaten-berau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:06:56"
+    },
+    {
+        "id_kota": 221,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Kutai Barat",
+        "slug": "kabupaten-kutai-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:07:16"
+    },
+    {
+        "id_kota": 222,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Kutai Kartanegara",
+        "slug": "kabupaten-kutai-kartanegara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:07:45"
+    },
+    {
+        "id_kota": 223,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Kutai Timur",
+        "slug": "kabupaten-kutai-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:08:21"
+    },
+    {
+        "id_kota": 224,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Mahakam Ulu",
+        "slug": "kabupaten-mahakam-ulu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:08:51"
+    },
+    {
+        "id_kota": 225,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Paser",
+        "slug": "kabupaten-paser",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:09:00"
+    },
+    {
+        "id_kota": 226,
+        "id_provinsi": 15,
+        "nama_kota": "Kabupaten Penajam Paser Utara",
+        "slug": "kabupaten-penajam-paser-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:09:21"
+    },
+    {
+        "id_kota": 227,
+        "id_provinsi": 15,
+        "nama_kota": "Kota Balikpapan",
+        "slug": "kota-balikpapan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:09:29"
+    },
+    {
+        "id_kota": 228,
+        "id_provinsi": 15,
+        "nama_kota": "Kota Bontang",
+        "slug": "kota-bontang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:09:38"
+    },
+    {
+        "id_kota": 229,
+        "id_provinsi": 15,
+        "nama_kota": "Kota Samarinda",
+        "slug": "kota-samarinda",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:09:42"
+    },
+    {
+        "id_kota": 230,
+        "id_provinsi": 16,
+        "nama_kota": "Kabupaten Bulungan",
+        "slug": "kabupaten-bulungan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:09:59"
+    },
+    {
+        "id_kota": 231,
+        "id_provinsi": 16,
+        "nama_kota": "Kabupaten Malinau",
+        "slug": "kabupaten-malinau",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:10:16"
+    },
+    {
+        "id_kota": 232,
+        "id_provinsi": 16,
+        "nama_kota": "Kabupaten Nunukan",
+        "slug": "kabupaten-nunukan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:10:39"
+    },
+    {
+        "id_kota": 233,
+        "id_provinsi": 16,
+        "nama_kota": "Kabupaten Tana Tidung",
+        "slug": "kabupaten-tana-tidung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:11:17"
+    },
+    {
+        "id_kota": 234,
+        "id_provinsi": 16,
+        "nama_kota": "Kota Tarakan",
+        "slug": "kota-tarakan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:11:25"
+    },
+    {
+        "id_kota": 235,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Bangka",
+        "slug": "kabupaten-bangka",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:11:32"
+    },
+    {
+        "id_kota": 236,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Bangka Barat",
+        "slug": "kabupaten-bangka-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:11:46"
+    },
+    {
+        "id_kota": 237,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Bangka Selatan",
+        "slug": "kabupaten-bangka-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:11:57"
+    },
+    {
+        "id_kota": 238,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Bangka Tengah",
+        "slug": "kabupaten-bangka-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:12:09"
+    },
+    {
+        "id_kota": 239,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Belitung",
+        "slug": "kabupaten-belitung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:12:22"
+    },
+    {
+        "id_kota": 240,
+        "id_provinsi": 17,
+        "nama_kota": "Kabupaten Belitung Timur",
+        "slug": "kabupaten-belitung-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:12:31"
+    },
+    {
+        "id_kota": 241,
+        "id_provinsi": 17,
+        "nama_kota": "Kota Pangkal Pinang",
+        "slug": "kota-pangkal-pinang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:12:44"
+    },
+    {
+        "id_kota": 242,
+        "id_provinsi": 18,
+        "nama_kota": "Kabupaten Bintan",
+        "slug": "kabupaten-bintan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:12:57"
+    },
+    {
+        "id_kota": 243,
+        "id_provinsi": 18,
+        "nama_kota": "Kabupaten Karimun",
+        "slug": "kabupaten-karimun",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:13:16"
+    },
+    {
+        "id_kota": 244,
+        "id_provinsi": 18,
+        "nama_kota": "Kabupaten Kepulauan Anambas",
+        "slug": "kabupaten-kepulauan-anambas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:13:36"
+    },
+    {
+        "id_kota": 245,
+        "id_provinsi": 18,
+        "nama_kota": "Kabupaten Lingga",
+        "slug": "kabupaten-lingga",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:13:51"
+    },
+    {
+        "id_kota": 246,
+        "id_provinsi": 18,
+        "nama_kota": "Kabupaten Natuna",
+        "slug": "kabupaten-natuna",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:14:11"
+    },
+    {
+        "id_kota": 247,
+        "id_provinsi": 18,
+        "nama_kota": "Kota Batam",
+        "slug": "kota-batam",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:14:35"
+    },
+    {
+        "id_kota": 248,
+        "id_provinsi": 18,
+        "nama_kota": "Kota Tanjung Pinang",
+        "slug": "kota-tanjung-pinang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:14:52"
+    },
+    {
+        "id_kota": 249,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Lampung Barat",
+        "slug": "kabupaten-lampung-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:15:00"
+    },
+    {
+        "id_kota": 250,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Lampung Selatan",
+        "slug": "kabupaten-lampung-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:15:25"
+    },
+    {
+        "id_kota": 251,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Lampung Tengah",
+        "slug": "kabupaten-lampung-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:15:59"
+    },
+    {
+        "id_kota": 252,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Lampung Timur",
+        "slug": "kabupaten-lampung-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:16:48"
+    },
+    {
+        "id_kota": 253,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Lampung Utara",
+        "slug": "kabupaten-lampung-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:17:30"
+    },
+    {
+        "id_kota": 254,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Mesuji",
+        "slug": "kabupaten-mesuji",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:18:10"
+    },
+    {
+        "id_kota": 255,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Pesawaran",
+        "slug": "kabupaten-pesawaran",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:18:25"
+    },
+    {
+        "id_kota": 256,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Pesisir Barat",
+        "slug": "kabupaten-pesisir-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:18:46"
+    },
+    {
+        "id_kota": 257,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Pringsewu",
+        "slug": "kabupaten-pringsewu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:19:06"
+    },
+    {
+        "id_kota": 258,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Tanggamus",
+        "slug": "kabupaten-tanggamus",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:19:23"
+    },
+    {
+        "id_kota": 259,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Tulang Bawang",
+        "slug": "kabupaten-tulang-bawang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:20:04"
+    },
+    {
+        "id_kota": 260,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Tulang Bawang Barat",
+        "slug": "kabupaten-tulang-bawang-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:20:29"
+    },
+    {
+        "id_kota": 261,
+        "id_provinsi": 19,
+        "nama_kota": "Kabupaten Way Kanan",
+        "slug": "kabupaten-way-kanan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:20:46"
+    },
+    {
+        "id_kota": 262,
+        "id_provinsi": 19,
+        "nama_kota": "Kota Bandar Lampung",
+        "slug": "kota-bandar-lampung",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:21:14"
+    },
+    {
+        "id_kota": 263,
+        "id_provinsi": 19,
+        "nama_kota": "Kota Metro",
+        "slug": "kota-metro",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:21:43"
+    },
+    {
+        "id_kota": 264,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Buru",
+        "slug": "kabupaten-buru",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:21:51"
+    },
+    {
+        "id_kota": 265,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Buru Selatan",
+        "slug": "kabupaten-buru-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:22:08"
+    },
+    {
+        "id_kota": 266,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Kepulauan Aru",
+        "slug": "kabupaten-kepulauan-aru",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:22:19"
+    },
+    {
+        "id_kota": 267,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Kepulauan Tanimbar",
+        "slug": "kabupaten-kepulauan-tanimbar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:22:37"
+    },
+    {
+        "id_kota": 268,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Maluku Barat Daya",
+        "slug": "kabupaten-maluku-barat-daya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:22:53"
+    },
+    {
+        "id_kota": 269,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Maluku Tengah",
+        "slug": "kabupaten-maluku-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:23:20"
+    },
+    {
+        "id_kota": 270,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Maluku Tenggara",
+        "slug": "kabupaten-maluku-tenggara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:23:50"
+    },
+    {
+        "id_kota": 271,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Seram Bagian Barat",
+        "slug": "kabupaten-seram-bagian-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:24:11"
+    },
+    {
+        "id_kota": 272,
+        "id_provinsi": 20,
+        "nama_kota": "Kabupaten Seram Bagian Timur",
+        "slug": "kabupaten-seram-bagian-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:24:27"
+    },
+    {
+        "id_kota": 273,
+        "id_provinsi": 20,
+        "nama_kota": "Kota Ambon",
+        "slug": "kota-ambon",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:24:51"
+    },
+    {
+        "id_kota": 274,
+        "id_provinsi": 20,
+        "nama_kota": "Kota Tual",
+        "slug": "kota-tual",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:24:58"
+    },
+    {
+        "id_kota": 275,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Halmahera Barat",
+        "slug": "kabupaten-halmahera-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:25:05"
+    },
+    {
+        "id_kota": 276,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Halmahera Selatan",
+        "slug": "kabupaten-halmahera-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:25:23"
+    },
+    {
+        "id_kota": 277,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Halmahera Tengah",
+        "slug": "kabupaten-halmahera-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:26:04"
+    },
+    {
+        "id_kota": 278,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Halmahera Timur",
+        "slug": "kabupaten-halmahera-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:26:17"
+    },
+    {
+        "id_kota": 279,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Halmahera Utara",
+        "slug": "kabupaten-halmahera-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:26:32"
+    },
+    {
+        "id_kota": 280,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Kepulauan Sula",
+        "slug": "kabupaten-kepulauan-sula",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:26:58"
+    },
+    {
+        "id_kota": 281,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Pulau Morotai",
+        "slug": "kabupaten-pulau-morotai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:27:13"
+    },
+    {
+        "id_kota": 282,
+        "id_provinsi": 21,
+        "nama_kota": "Kabupaten Pulau Taliabu",
+        "slug": "kabupaten-pulau-taliabu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:27:23"
+    },
+    {
+        "id_kota": 283,
+        "id_provinsi": 21,
+        "nama_kota": "Kota Ternate",
+        "slug": "kota-ternate",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:27:35"
+    },
+    {
+        "id_kota": 284,
+        "id_provinsi": 21,
+        "nama_kota": "Kota Tidore Kepulauan",
+        "slug": "kota-tidore-kepulauan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:27:47"
+    },
+    {
+        "id_kota": 285,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Bima",
+        "slug": "kabupaten-bima",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:28:01"
+    },
+    {
+        "id_kota": 286,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Dompu",
+        "slug": "kabupaten-dompu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:28:27"
+    },
+    {
+        "id_kota": 287,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Lombok Barat",
+        "slug": "kabupaten-lombok-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:28:40"
+    },
+    {
+        "id_kota": 288,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Lombok Tengah",
+        "slug": "kabupaten-lombok-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:28:55"
+    },
+    {
+        "id_kota": 289,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Lombok Timur",
+        "slug": "kabupaten-lombok-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:29:15"
+    },
+    {
+        "id_kota": 290,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Lombok Utara",
+        "slug": "kabupaten-lombok-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:29:47"
+    },
+    {
+        "id_kota": 291,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Sumbawa",
+        "slug": "kabupaten-sumbawa",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:29:55"
+    },
+    {
+        "id_kota": 292,
+        "id_provinsi": 22,
+        "nama_kota": "Kabupaten Sumbawa Barat",
+        "slug": "kabupaten-sumbawa-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:30:26"
+    },
+    {
+        "id_kota": 293,
+        "id_provinsi": 22,
+        "nama_kota": "Kota Bima",
+        "slug": "kota-bima",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:30:38"
+    },
+    {
+        "id_kota": 294,
+        "id_provinsi": 22,
+        "nama_kota": "Kota Mataram",
+        "slug": "kota-mataram",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:30:45"
+    },
+    {
+        "id_kota": 295,
+        "id_provinsi": 23,
+        "nama_kota": "Kab Timor Tengah Selatan",
+        "slug": "kab-timor-tengah-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:30:55"
+    },
+    {
+        "id_kota": 296,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Alor",
+        "slug": "kabupaten-alor",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:31:44"
+    },
+    {
+        "id_kota": 297,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Belu",
+        "slug": "kabupaten-belu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:32:11"
+    },
+    {
+        "id_kota": 298,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Ende",
+        "slug": "kabupaten-ende",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:32:26"
+    },
+    {
+        "id_kota": 299,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Flores Timur",
+        "slug": "kabupaten-flores-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:33:01"
+    },
+    {
+        "id_kota": 300,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Kupang",
+        "slug": "kabupaten-kupang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:33:37"
+    },
+    {
+        "id_kota": 301,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Lembata",
+        "slug": "kabupaten-lembata",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:34:10"
+    },
+    {
+        "id_kota": 302,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Malaka",
+        "slug": "kabupaten-malaka",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:34:27"
+    },
+    {
+        "id_kota": 303,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Manggarai",
+        "slug": "kabupaten-manggarai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:34:43"
+    },
+    {
+        "id_kota": 304,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Manggarai Barat",
+        "slug": "kabupaten-manggarai-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:35:03"
+    },
+    {
+        "id_kota": 305,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Manggarai Timur",
+        "slug": "kabupaten-manggarai-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:35:24"
+    },
+    {
+        "id_kota": 306,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Nagekeo",
+        "slug": "kabupaten-nagekeo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:35:44"
+    },
+    {
+        "id_kota": 307,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Ngada",
+        "slug": "kabupaten-ngada",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:35:58"
+    },
+    {
+        "id_kota": 308,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Rote Ndao",
+        "slug": "kabupaten-rote-ndao",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:36:21"
+    },
+    {
+        "id_kota": 309,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sabu Raijua",
+        "slug": "kabupaten-sabu-raijua",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:36:38"
+    },
+    {
+        "id_kota": 310,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sikka",
+        "slug": "kabupaten-sikka",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:36:48"
+    },
+    {
+        "id_kota": 311,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sumba Barat",
+        "slug": "kabupaten-sumba-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:37:19"
+    },
+    {
+        "id_kota": 312,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sumba Barat Daya",
+        "slug": "kabupaten-sumba-barat-daya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:37:31"
+    },
+    {
+        "id_kota": 313,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sumba Tengah",
+        "slug": "kabupaten-sumba-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:37:55"
+    },
+    {
+        "id_kota": 314,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Sumba Timur",
+        "slug": "kabupaten-sumba-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:38:07"
+    },
+    {
+        "id_kota": 315,
+        "id_provinsi": 23,
+        "nama_kota": "Kabupaten Timor Tengah Utara",
+        "slug": "kabupaten-timor-tengah-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:38:38"
+    },
+    {
+        "id_kota": 316,
+        "id_provinsi": 23,
+        "nama_kota": "Kota Kupang",
+        "slug": "kota-kupang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:39:14"
+    },
+    {
+        "id_kota": 317,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Biak Numfor",
+        "slug": "kabupaten-biak-numfor",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:39:23"
+    },
+    {
+        "id_kota": 318,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Jayapura",
+        "slug": "kabupaten-jayapura",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:39:55"
+    },
+    {
+        "id_kota": 319,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Keerom",
+        "slug": "kabupaten-keerom",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:40:20"
+    },
+    {
+        "id_kota": 320,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Kepulauan Yapen",
+        "slug": "kabupaten-kepulauan-yapen",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:40:38"
+    },
+    {
+        "id_kota": 321,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Mamberamo Raya",
+        "slug": "kabupaten-mamberamo-raya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:41:02"
+    },
+    {
+        "id_kota": 322,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Sarmi",
+        "slug": "kabupaten-sarmi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:41:13"
+    },
+    {
+        "id_kota": 323,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Supiori",
+        "slug": "kabupaten-supiori",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:41:28"
+    },
+    {
+        "id_kota": 324,
+        "id_provinsi": 24,
+        "nama_kota": "Kabupaten Waropen",
+        "slug": "kabupaten-waropen",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:41:35"
+    },
+    {
+        "id_kota": 325,
+        "id_provinsi": 24,
+        "nama_kota": "Kota Jayapura",
+        "slug": "kota-jayapura",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:41:51"
+    },
+    {
+        "id_kota": 326,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Fak Fak",
+        "slug": "kabupaten-fak-fak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:41:59"
+    },
+    {
+        "id_kota": 327,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Kaimana",
+        "slug": "kabupaten-kaimana",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:42:24"
+    },
+    {
+        "id_kota": 328,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Manokwari",
+        "slug": "kabupaten-manokwari",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:42:35"
+    },
+    {
+        "id_kota": 329,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Manokwari Selatan",
+        "slug": "kabupaten-manokwari-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:42:53"
+    },
+    {
+        "id_kota": 330,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Pegunungan Arfak",
+        "slug": "kabupaten-pegunungan-arfak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:43:02"
+    },
+    {
+        "id_kota": 331,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Teluk Bintuni",
+        "slug": "kabupaten-teluk-bintuni",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:43:21"
+    },
+    {
+        "id_kota": 332,
+        "id_provinsi": 25,
+        "nama_kota": "Kabupaten Teluk Wondama",
+        "slug": "kabupaten-teluk-wondama",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:43:49"
+    },
+    {
+        "id_kota": 333,
+        "id_provinsi": 26,
+        "nama_kota": "Kabupaten Maybrat",
+        "slug": "kabupaten-maybrat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:44:07"
+    },
+    {
+        "id_kota": 334,
+        "id_provinsi": 26,
+        "nama_kota": "Kabupaten Raja Ampat",
+        "slug": "kabupaten-raja-ampat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:44:43"
+    },
+    {
+        "id_kota": 335,
+        "id_provinsi": 26,
+        "nama_kota": "Kabupaten Sorong",
+        "slug": "kabupaten-sorong",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:45:13"
+    },
+    {
+        "id_kota": 336,
+        "id_provinsi": 26,
+        "nama_kota": "Kabupaten Sorong Selatan",
+        "slug": "kabupaten-sorong-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:45:56"
+    },
+    {
+        "id_kota": 337,
+        "id_provinsi": 26,
+        "nama_kota": "Kabupaten Tambrauw",
+        "slug": "kabupaten-tambrauw",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:46:17"
+    },
+    {
+        "id_kota": 338,
+        "id_provinsi": 26,
+        "nama_kota": "Kota Sorong",
+        "slug": "kota-sorong",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 21:46:56"
+    },
+    {
+        "id_kota": 339,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Jayawijaya",
+        "slug": "kabupaten-jayawijaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:47:08"
+    },
+    {
+        "id_kota": 340,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Lanny Jaya",
+        "slug": "kabupaten-lanny-jaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:48:05"
+    },
+    {
+        "id_kota": 341,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Mamberamo Tengah",
+        "slug": "kabupaten-mamberamo-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:49:05"
+    },
+    {
+        "id_kota": 342,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Nduga",
+        "slug": "kabupaten-nduga",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:49:14"
+    },
+    {
+        "id_kota": 343,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Pegunungan Bintang",
+        "slug": "kabupaten-pegunungan-bintang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:50:00"
+    },
+    {
+        "id_kota": 344,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Tolikara",
+        "slug": "kabupaten-tolikara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:50:52"
+    },
+    {
+        "id_kota": 345,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Yahukimo",
+        "slug": "kabupaten-yahukimo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:52:02"
+    },
+    {
+        "id_kota": 346,
+        "id_provinsi": 27,
+        "nama_kota": "Kabupaten Yalimo",
+        "slug": "kabupaten-yalimo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:53:17"
+    },
+    {
+        "id_kota": 347,
+        "id_provinsi": 28,
+        "nama_kota": "Kabupaten Asmat",
+        "slug": "kabupaten-asmat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:53:40"
+    },
+    {
+        "id_kota": 348,
+        "id_provinsi": 28,
+        "nama_kota": "Kabupaten Boven Digoel",
+        "slug": "kabupaten-boven-digoel",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:54:14"
+    },
+    {
+        "id_kota": 349,
+        "id_provinsi": 28,
+        "nama_kota": "Kabupaten Mappi",
+        "slug": "kabupaten-mappi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:54:46"
+    },
+    {
+        "id_kota": 350,
+        "id_provinsi": 28,
+        "nama_kota": "Kabupaten Merauke",
+        "slug": "kabupaten-merauke",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:55:10"
+    },
+    {
+        "id_kota": 351,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Deiyai",
+        "slug": "kabupaten-deiyai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:55:42"
+    },
+    {
+        "id_kota": 352,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Dogiyai",
+        "slug": "kabupaten-dogiyai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:55:52"
+    },
+    {
+        "id_kota": 353,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Intan Jaya",
+        "slug": "kabupaten-intan-jaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:56:05"
+    },
+    {
+        "id_kota": 354,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Mimika",
+        "slug": "kabupaten-mimika",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:56:18"
+    },
+    {
+        "id_kota": 355,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Nabire",
+        "slug": "kabupaten-nabire",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:56:43"
+    },
+    {
+        "id_kota": 356,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Paniai",
+        "slug": "kabupaten-paniai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:57:02"
+    },
+    {
+        "id_kota": 357,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Puncak",
+        "slug": "kabupaten-puncak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:57:37"
+    },
+    {
+        "id_kota": 358,
+        "id_provinsi": 29,
+        "nama_kota": "Kabupaten Puncak Jaya",
+        "slug": "kabupaten-puncak-jaya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:58:12"
+    },
+    {
+        "id_kota": 359,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Bengkalis",
+        "slug": "kabupaten-bengkalis",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:58:53"
+    },
+    {
+        "id_kota": 360,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Indragiri Hilir",
+        "slug": "kabupaten-indragiri-hilir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:59:12"
+    },
+    {
+        "id_kota": 361,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Indragiri Hulu",
+        "slug": "kabupaten-indragiri-hulu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 21:59:46"
+    },
+    {
+        "id_kota": 362,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Kampar",
+        "slug": "kabupaten-kampar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:00:13"
+    },
+    {
+        "id_kota": 363,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Kepulauan Meranti",
+        "slug": "kabupaten-kepulauan-meranti",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:00:46"
+    },
+    {
+        "id_kota": 364,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Kuantan Singingi",
+        "slug": "kabupaten-kuantan-singingi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:01:00"
+    },
+    {
+        "id_kota": 365,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Pelalawan",
+        "slug": "kabupaten-pelalawan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:01:25"
+    },
+    {
+        "id_kota": 366,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Rokan Hilir",
+        "slug": "kabupaten-rokan-hilir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:01:43"
+    },
+    {
+        "id_kota": 367,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Rokan Hulu",
+        "slug": "kabupaten-rokan-hulu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:02:10"
+    },
+    {
+        "id_kota": 368,
+        "id_provinsi": 30,
+        "nama_kota": "Kabupaten Siak",
+        "slug": "kabupaten-siak",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:02:34"
+    },
+    {
+        "id_kota": 369,
+        "id_provinsi": 30,
+        "nama_kota": "Kota Dumai",
+        "slug": "kota-dumai",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:02:54"
+    },
+    {
+        "id_kota": 370,
+        "id_provinsi": 30,
+        "nama_kota": "Kota Pekanbaru",
+        "slug": "kota-pekanbaru",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:03:03"
+    },
+    {
+        "id_kota": 371,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Majene",
+        "slug": "kabupaten-majene",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:03:26"
+    },
+    {
+        "id_kota": 372,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Mamasa",
+        "slug": "kabupaten-mamasa",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:03:39"
+    },
+    {
+        "id_kota": 373,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Mamuju",
+        "slug": "kabupaten-mamuju",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:04:05"
+    },
+    {
+        "id_kota": 374,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Mamuju Tengah",
+        "slug": "kabupaten-mamuju-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:04:22"
+    },
+    {
+        "id_kota": 375,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Pasangkayu",
+        "slug": "kabupaten-pasangkayu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:04:30"
+    },
+    {
+        "id_kota": 376,
+        "id_provinsi": 31,
+        "nama_kota": "Kabupaten Polewali Mandar",
+        "slug": "kabupaten-polewali-mandar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:04:45"
+    },
+    {
+        "id_kota": 377,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Bantaeng",
+        "slug": "kabupaten-bantaeng",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:05:10"
+    },
+    {
+        "id_kota": 378,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Barru",
+        "slug": "kabupaten-barru",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:05:21"
+    },
+    {
+        "id_kota": 379,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Bone",
+        "slug": "kabupaten-bone",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:05:31"
+    },
+    {
+        "id_kota": 380,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Bulukumba",
+        "slug": "kabupaten-bulukumba",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:06:16"
+    },
+    {
+        "id_kota": 381,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Enrekang",
+        "slug": "kabupaten-enrekang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:06:33"
+    },
+    {
+        "id_kota": 382,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Gowa",
+        "slug": "kabupaten-gowa",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:06:52"
+    },
+    {
+        "id_kota": 383,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Jeneponto",
+        "slug": "kabupaten-jeneponto",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:07:21"
+    },
+    {
+        "id_kota": 384,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Kepulauan Selayar",
+        "slug": "kabupaten-kepulauan-selayar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:07:39"
+    },
+    {
+        "id_kota": 385,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Luwu",
+        "slug": "kabupaten-luwu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:07:56"
+    },
+    {
+        "id_kota": 386,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Luwu Timur",
+        "slug": "kabupaten-luwu-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:08:33"
+    },
+    {
+        "id_kota": 387,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Luwu Utara",
+        "slug": "kabupaten-luwu-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:08:52"
+    },
+    {
+        "id_kota": 388,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Maros",
+        "slug": "kabupaten-maros",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:09:18"
+    },
+    {
+        "id_kota": 389,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Pangkajene Kepulauan",
+        "slug": "kabupaten-pangkajene-kepulauan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:09:40"
+    },
+    {
+        "id_kota": 390,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Pinrang",
+        "slug": "kabupaten-pinrang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:10:00"
+    },
+    {
+        "id_kota": 391,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Sidenreng Rappang",
+        "slug": "kabupaten-sidenreng-rappang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:10:21"
+    },
+    {
+        "id_kota": 392,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Sinjai",
+        "slug": "kabupaten-sinjai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:10:40"
+    },
+    {
+        "id_kota": 393,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Soppeng",
+        "slug": "kabupaten-soppeng",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:10:55"
+    },
+    {
+        "id_kota": 394,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Takalar",
+        "slug": "kabupaten-takalar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:11:07"
+    },
+    {
+        "id_kota": 395,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Tana Toraja",
+        "slug": "kabupaten-tana-toraja",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:11:27"
+    },
+    {
+        "id_kota": 396,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Toraja Utara",
+        "slug": "kabupaten-toraja-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:11:56"
+    },
+    {
+        "id_kota": 397,
+        "id_provinsi": 32,
+        "nama_kota": "Kabupaten Wajo",
+        "slug": "kabupaten-wajo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:12:29"
+    },
+    {
+        "id_kota": 398,
+        "id_provinsi": 32,
+        "nama_kota": "Kota Makassar",
+        "slug": "kota-makassar",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:12:56"
+    },
+    {
+        "id_kota": 399,
+        "id_provinsi": 32,
+        "nama_kota": "Kota Palopo",
+        "slug": "kota-palopo",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:13:20"
+    },
+    {
+        "id_kota": 400,
+        "id_provinsi": 32,
+        "nama_kota": "Kota Pare Pare",
+        "slug": "kota-pare-pare",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:13:32"
+    },
+    {
+        "id_kota": 401,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Banggai",
+        "slug": "kabupaten-banggai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:13:39"
+    },
+    {
+        "id_kota": 402,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Banggai Kepulauan",
+        "slug": "kabupaten-banggai-kepulauan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:14:23"
+    },
+    {
+        "id_kota": 403,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Banggai Laut",
+        "slug": "kabupaten-banggai-laut",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:14:46"
+    },
+    {
+        "id_kota": 404,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Buol",
+        "slug": "kabupaten-buol",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:14:58"
+    },
+    {
+        "id_kota": 405,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Donggala",
+        "slug": "kabupaten-donggala",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:15:16"
+    },
+    {
+        "id_kota": 406,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Morowali",
+        "slug": "kabupaten-morowali",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:15:43"
+    },
+    {
+        "id_kota": 407,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Morowali Utara",
+        "slug": "kabupaten-morowali-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:16:02"
+    },
+    {
+        "id_kota": 408,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Parigi Moutong",
+        "slug": "kabupaten-parigi-moutong",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:16:21"
+    },
+    {
+        "id_kota": 409,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Poso",
+        "slug": "kabupaten-poso",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:17:02"
+    },
+    {
+        "id_kota": 410,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Sigi",
+        "slug": "kabupaten-sigi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:17:33"
+    },
+    {
+        "id_kota": 411,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Tojo Una Una",
+        "slug": "kabupaten-tojo-una-una",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:17:59"
+    },
+    {
+        "id_kota": 412,
+        "id_provinsi": 33,
+        "nama_kota": "Kabupaten Toli Toli",
+        "slug": "kabupaten-toli-toli",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:18:21"
+    },
+    {
+        "id_kota": 413,
+        "id_provinsi": 33,
+        "nama_kota": "Kota Palu",
+        "slug": "kota-palu",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:18:39"
+    },
+    {
+        "id_kota": 414,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Bombana",
+        "slug": "kabupaten-bombana",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:18:52"
+    },
+    {
+        "id_kota": 415,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Buton",
+        "slug": "kabupaten-buton",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:19:26"
+    },
+    {
+        "id_kota": 416,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Buton Selatan",
+        "slug": "kabupaten-buton-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:19:39"
+    },
+    {
+        "id_kota": 417,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Buton Tengah",
+        "slug": "kabupaten-buton-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:19:51"
+    },
+    {
+        "id_kota": 418,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Buton Utara",
+        "slug": "kabupaten-buton-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:20:03"
+    },
+    {
+        "id_kota": 419,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Kolaka",
+        "slug": "kabupaten-kolaka",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:20:14"
+    },
+    {
+        "id_kota": 420,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Kolaka Timur",
+        "slug": "kabupaten-kolaka-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:20:35"
+    },
+    {
+        "id_kota": 421,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Kolaka Utara",
+        "slug": "kabupaten-kolaka-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:20:56"
+    },
+    {
+        "id_kota": 422,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Konawe",
+        "slug": "kabupaten-konawe",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:21:23"
+    },
+    {
+        "id_kota": 423,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Konawe Kepulauan",
+        "slug": "kabupaten-konawe-kepulauan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:22:12"
+    },
+    {
+        "id_kota": 424,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Konawe Selatan",
+        "slug": "kabupaten-konawe-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:22:25"
+    },
+    {
+        "id_kota": 425,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Konawe Utara",
+        "slug": "kabupaten-konawe-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:23:12"
+    },
+    {
+        "id_kota": 426,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Muna",
+        "slug": "kabupaten-muna",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:23:37"
+    },
+    {
+        "id_kota": 427,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Muna Barat",
+        "slug": "kabupaten-muna-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:24:10"
+    },
+    {
+        "id_kota": 428,
+        "id_provinsi": 34,
+        "nama_kota": "Kabupaten Wakatobi",
+        "slug": "kabupaten-wakatobi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:24:27"
+    },
+    {
+        "id_kota": 429,
+        "id_provinsi": 34,
+        "nama_kota": "Kota Bau Bau",
+        "slug": "kota-bau-bau",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:24:42"
+    },
+    {
+        "id_kota": 430,
+        "id_provinsi": 34,
+        "nama_kota": "Kota Kendari",
+        "slug": "kota-kendari",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:24:54"
+    },
+    {
+        "id_kota": 431,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Bolaang Mongondow",
+        "slug": "kabupaten-bolaang-mongondow",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:25:11"
+    },
+    {
+        "id_kota": 432,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Bolaang Mongondow Selatan",
+        "slug": "kabupaten-bolaang-mongondow-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:25:39"
+    },
+    {
+        "id_kota": 433,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Bolaang Mongondow Timur",
+        "slug": "kabupaten-bolaang-mongondow-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:25:51"
+    },
+    {
+        "id_kota": 434,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Bolaang Mongondow Utara",
+        "slug": "kabupaten-bolaang-mongondow-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:26:04"
+    },
+    {
+        "id_kota": 435,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Kepulauan Sangihe",
+        "slug": "kabupaten-kepulauan-sangihe",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:26:17"
+    },
+    {
+        "id_kota": 436,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+        "slug": "kabupaten-kepulauan-siau-tagulandang-biaro",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:26:42"
+    },
+    {
+        "id_kota": 437,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Kepulauan Talaud",
+        "slug": "kabupaten-kepulauan-talaud",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:26:58"
+    },
+    {
+        "id_kota": 438,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Minahasa",
+        "slug": "kabupaten-minahasa",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:27:28"
+    },
+    {
+        "id_kota": 439,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Minahasa Selatan",
+        "slug": "kabupaten-minahasa-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:28:10"
+    },
+    {
+        "id_kota": 440,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Minahasa Tenggara",
+        "slug": "kabupaten-minahasa-tenggara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:28:38"
+    },
+    {
+        "id_kota": 441,
+        "id_provinsi": 35,
+        "nama_kota": "Kabupaten Minahasa Utara",
+        "slug": "kabupaten-minahasa-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:29:00"
+    },
+    {
+        "id_kota": 442,
+        "id_provinsi": 35,
+        "nama_kota": "Kota Bitung",
+        "slug": "kota-bitung",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:29:19"
+    },
+    {
+        "id_kota": 443,
+        "id_provinsi": 35,
+        "nama_kota": "Kota Kotamobagu",
+        "slug": "kota-kotamobagu",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:29:32"
+    },
+    {
+        "id_kota": 444,
+        "id_provinsi": 35,
+        "nama_kota": "Kota Manado",
+        "slug": "kota-manado",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:29:39"
+    },
+    {
+        "id_kota": 445,
+        "id_provinsi": 35,
+        "nama_kota": "Kota Tomohon",
+        "slug": "kota-tomohon",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:29:57"
+    },
+    {
+        "id_kota": 446,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Agam",
+        "slug": "kabupaten-agam",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:30:07"
+    },
+    {
+        "id_kota": 447,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Dharmasraya",
+        "slug": "kabupaten-dharmasraya",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:30:30"
+    },
+    {
+        "id_kota": 448,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Kepulauan Mentawai",
+        "slug": "kabupaten-kepulauan-mentawai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:30:44"
+    },
+    {
+        "id_kota": 449,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Lima Puluh Kota",
+        "slug": "kabupaten-lima-puluh-kota",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:30:58"
+    },
+    {
+        "id_kota": 450,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Padang Pariaman",
+        "slug": "kabupaten-padang-pariaman",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:31:18"
+    },
+    {
+        "id_kota": 451,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Pasaman",
+        "slug": "kabupaten-pasaman",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:31:42"
+    },
+    {
+        "id_kota": 452,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Pasaman Barat",
+        "slug": "kabupaten-pasaman-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:31:58"
+    },
+    {
+        "id_kota": 453,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Pesisir Selatan",
+        "slug": "kabupaten-pesisir-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:32:16"
+    },
+    {
+        "id_kota": 454,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Sijunjung",
+        "slug": "kabupaten-sijunjung",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:32:42"
+    },
+    {
+        "id_kota": 455,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Solok",
+        "slug": "kabupaten-solok",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:32:57"
+    },
+    {
+        "id_kota": 456,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Solok Selatan",
+        "slug": "kabupaten-solok-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:33:16"
+    },
+    {
+        "id_kota": 457,
+        "id_provinsi": 36,
+        "nama_kota": "Kabupaten Tanah Datar",
+        "slug": "kabupaten-tanah-datar",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:33:26"
+    },
+    {
+        "id_kota": 458,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Bukittinggi",
+        "slug": "kota-bukittinggi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:33:46"
+    },
+    {
+        "id_kota": 459,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Padang",
+        "slug": "kota-padang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:33:51"
+    },
+    {
+        "id_kota": 460,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Padang Panjang",
+        "slug": "kota-padang-panjang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:34:09"
+    },
+    {
+        "id_kota": 461,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Pariaman",
+        "slug": "kota-pariaman",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:34:13"
+    },
+    {
+        "id_kota": 462,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Payakumbuh",
+        "slug": "kota-payakumbuh",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:34:21"
+    },
+    {
+        "id_kota": 463,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Sawahlunto",
+        "slug": "kota-sawahlunto",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:34:30"
+    },
+    {
+        "id_kota": 464,
+        "id_provinsi": 36,
+        "nama_kota": "Kota Solok",
+        "slug": "kota-solok",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:34:37"
+    },
+    {
+        "id_kota": 465,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Banyuasin",
+        "slug": "kabupaten-banyuasin",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:34:40"
+    },
+    {
+        "id_kota": 466,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Empat Lawang",
+        "slug": "kabupaten-empat-lawang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:35:22"
+    },
+    {
+        "id_kota": 467,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Lahat",
+        "slug": "kabupaten-lahat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:35:42"
+    },
+    {
+        "id_kota": 468,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Muara Enim",
+        "slug": "kabupaten-muara-enim",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:36:30"
+    },
+    {
+        "id_kota": 469,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Musi Banyuasin",
+        "slug": "kabupaten-musi-banyuasin",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:37:08"
+    },
+    {
+        "id_kota": 470,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Musi Rawas",
+        "slug": "kabupaten-musi-rawas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:37:38"
+    },
+    {
+        "id_kota": 471,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Musi Rawas Utara",
+        "slug": "kabupaten-musi-rawas-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:38:05"
+    },
+    {
+        "id_kota": 472,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Ogan Ilir",
+        "slug": "kabupaten-ogan-ilir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:38:17"
+    },
+    {
+        "id_kota": 473,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Ogan Komering Ilir",
+        "slug": "kabupaten-ogan-komering-ilir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:38:48"
+    },
+    {
+        "id_kota": 474,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Ogan Komering Ulu",
+        "slug": "kabupaten-ogan-komering-ulu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:39:25"
+    },
+    {
+        "id_kota": 475,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Ogan Komering Ulu Selatan",
+        "slug": "kabupaten-ogan-komering-ulu-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:39:48"
+    },
+    {
+        "id_kota": 476,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Ogan Komering Ulu Timur",
+        "slug": "kabupaten-ogan-komering-ulu-timur",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:40:22"
+    },
+    {
+        "id_kota": 477,
+        "id_provinsi": 37,
+        "nama_kota": "Kabupaten Penukal Abab Lematang Ilir",
+        "slug": "kabupaten-penukal-abab-lematang-ilir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:41:02"
+    },
+    {
+        "id_kota": 478,
+        "id_provinsi": 37,
+        "nama_kota": "Kota Lubuk Linggau",
+        "slug": "kota-lubuk-linggau",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:41:12"
+    },
+    {
+        "id_kota": 479,
+        "id_provinsi": 37,
+        "nama_kota": "Kota Pagar Alam",
+        "slug": "kota-pagar-alam",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:41:24"
+    },
+    {
+        "id_kota": 480,
+        "id_provinsi": 37,
+        "nama_kota": "Kota Palembang",
+        "slug": "kota-palembang",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:41:33"
+    },
+    {
+        "id_kota": 481,
+        "id_provinsi": 37,
+        "nama_kota": "Kota Prabumulih",
+        "slug": "kota-prabumulih",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:42:01"
+    },
+    {
+        "id_kota": 482,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Asahan",
+        "slug": "kabupaten-asahan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:42:10"
+    },
+    {
+        "id_kota": 483,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Batu Bara",
+        "slug": "kabupaten-batu-bara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:42:51"
+    },
+    {
+        "id_kota": 484,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Dairi",
+        "slug": "kabupaten-dairi",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:43:13"
+    },
+    {
+        "id_kota": 485,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Deli Serdang",
+        "slug": "kabupaten-deli-serdang",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:43:39"
+    },
+    {
+        "id_kota": 486,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Humbang Hasundutan",
+        "slug": "kabupaten-humbang-hasundutan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:44:29"
+    },
+    {
+        "id_kota": 487,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Karo",
+        "slug": "kabupaten-karo",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:44:49"
+    },
+    {
+        "id_kota": 488,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Labuhanbatu",
+        "slug": "kabupaten-labuhanbatu",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:45:22"
+    },
+    {
+        "id_kota": 489,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Labuhanbatu Selatan",
+        "slug": "kabupaten-labuhanbatu-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:45:38"
+    },
+    {
+        "id_kota": 490,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Labuhanbatu Utara",
+        "slug": "kabupaten-labuhanbatu-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:45:46"
+    },
+    {
+        "id_kota": 491,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Langkat",
+        "slug": "kabupaten-langkat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:46:00"
+    },
+    {
+        "id_kota": 492,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Mandailing Natal",
+        "slug": "kabupaten-mandailing-natal",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:46:41"
+    },
+    {
+        "id_kota": 493,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Nias",
+        "slug": "kabupaten-nias",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:47:29"
+    },
+    {
+        "id_kota": 494,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Nias Barat",
+        "slug": "kabupaten-nias-barat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:47:51"
+    },
+    {
+        "id_kota": 495,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Nias Selatan",
+        "slug": "kabupaten-nias-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:48:06"
+    },
+    {
+        "id_kota": 496,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Nias Utara",
+        "slug": "kabupaten-nias-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:49:09"
+    },
+    {
+        "id_kota": 497,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Padang Lawas",
+        "slug": "kabupaten-padang-lawas",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:49:27"
+    },
+    {
+        "id_kota": 498,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Padang Lawas Utara",
+        "slug": "kabupaten-padang-lawas-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:50:03"
+    },
+    {
+        "id_kota": 499,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Pakpak Bharat",
+        "slug": "kabupaten-pakpak-bharat",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:50:39"
+    },
+    {
+        "id_kota": 500,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Samosir",
+        "slug": "kabupaten-samosir",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:50:52"
+    },
+    {
+        "id_kota": 501,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Serdang Bedagai",
+        "slug": "kabupaten-serdang-bedagai",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:51:10"
+    },
+    {
+        "id_kota": 502,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Simalungun",
+        "slug": "kabupaten-simalungun",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:51:43"
+    },
+    {
+        "id_kota": 503,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Tapanuli Selatan",
+        "slug": "kabupaten-tapanuli-selatan",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:52:46"
+    },
+    {
+        "id_kota": 504,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Tapanuli Tengah",
+        "slug": "kabupaten-tapanuli-tengah",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:53:26"
+    },
+    {
+        "id_kota": 505,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Tapanuli Utara",
+        "slug": "kabupaten-tapanuli-utara",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:54:03"
+    },
+    {
+        "id_kota": 506,
+        "id_provinsi": 38,
+        "nama_kota": "Kabupaten Toba",
+        "slug": "kabupaten-toba",
+        "tipe": "Kabupaten",
+        "created_at": "2026-05-13 22:54:33"
+    },
+    {
+        "id_kota": 507,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Binjai",
+        "slug": "kota-binjai",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:55:07"
+    },
+    {
+        "id_kota": 508,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Gunungsitoli",
+        "slug": "kota-gunungsitoli",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:55:15"
+    },
+    {
+        "id_kota": 509,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Medan",
+        "slug": "kota-medan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:55:28"
+    },
+    {
+        "id_kota": 510,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Padangsidimpuan",
+        "slug": "kota-padangsidimpuan",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:56:01"
+    },
+    {
+        "id_kota": 511,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Pematangsiantar",
+        "slug": "kota-pematangsiantar",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:56:13"
+    },
+    {
+        "id_kota": 512,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Sibolga",
+        "slug": "kota-sibolga",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:56:25"
+    },
+    {
+        "id_kota": 513,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Tanjung Balai",
+        "slug": "kota-tanjung-balai",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:56:31"
+    },
+    {
+        "id_kota": 514,
+        "id_provinsi": 38,
+        "nama_kota": "Kota Tebing Tinggi",
+        "slug": "kota-tebing-tinggi",
+        "tipe": "Kota",
+        "created_at": "2026-05-13 22:56:40"
+    }
+]
