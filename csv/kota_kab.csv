@@ -1,0 +1,515 @@
+id_kota|id_provinsi|nama_kota|slug|tipe|created_at
+32|2|Kota Denpasar|kota-denpasar|Kota|2026-05-13 19:35:25
+75|8|Kabupaten Tanjung Jabung Timur|kabupaten-tanjung-jabung-timur|Kabupaten|2026-05-13 19:56:29
+346|27|Kabupaten Yalimo|kabupaten-yalimo|Kabupaten|2026-05-13 21:53:17
+37|3|Kota Cilegon|kota-cilegon|Kota|2026-05-13 19:40:08
+371|31|Kabupaten Majene|kabupaten-majene|Kabupaten|2026-05-13 22:03:26
+475|37|Kabupaten Ogan Komering Ulu Selatan|kabupaten-ogan-komering-ulu-selatan|Kabupaten|2026-05-13 22:39:48
+166|11|Kabupaten Sumenep|kabupaten-sumenep|Kabupaten|2026-05-13 20:46:56
+193|13|Kabupaten Balangan|kabupaten-balangan|Kabupaten|2026-05-13 20:57:25
+138|10|Kota Semarang|kota-semarang|Kota|2026-05-13 20:31:14
+229|15|Kota Samarinda|kota-samarinda|Kota|2026-05-13 21:09:42
+402|33|Kabupaten Banggai Kepulauan|kabupaten-banggai-kepulauan|Kabupaten|2026-05-13 22:14:23
+256|19|Kabupaten Pesisir Barat|kabupaten-pesisir-barat|Kabupaten|2026-05-13 21:18:46
+436|35|Kabupaten Kepulauan Siau Tagulandang Biaro|kabupaten-kepulauan-siau-tagulandang-biaro|Kabupaten|2026-05-13 22:26:42
+168|11|Kabupaten Tuban|kabupaten-tuban|Kabupaten|2026-05-13 20:48:15
+129|10|Kabupaten Sragen|kabupaten-sragen|Kabupaten|2026-05-13 20:27:52
+225|15|Kabupaten Paser|kabupaten-paser|Kabupaten|2026-05-13 21:09:00
+18|1|Kabupaten Simeulue|kabupaten-simeulue|Kabupaten|2026-05-13 19:31:40
+2|1|Kabupaten Aceh Barat Daya|kabupaten-aceh-barat-daya|Kabupaten|2026-05-13 19:18:47
+1|1|Kabupaten Aceh Barat|kabupaten-aceh-barat|Kabupaten|2026-05-13 19:18:08
+478|37|Kota Lubuk Linggau|kota-lubuk-linggau|Kota|2026-05-13 22:41:12
+105|9|Kota Tasikmalaya|kota-tasikmalaya|Kota|2026-05-13 20:14:02
+480|37|Kota Palembang|kota-palembang|Kota|2026-05-13 22:41:33
+136|10|Kota Pekalongan|kota-pekalongan|Kota|2026-05-13 20:31:02
+7|1|Kabupaten Aceh Tamiang|kabupaten-aceh-tamiang|Kabupaten|2026-05-13 19:21:46
+451|36|Kabupaten Pasaman|kabupaten-pasaman|Kabupaten|2026-05-13 22:31:42
+318|24|Kabupaten Jayapura|kabupaten-jayapura|Kabupaten|2026-05-13 21:39:55
+240|17|Kabupaten Belitung Timur|kabupaten-belitung-timur|Kabupaten|2026-05-13 21:12:31
+291|22|Kabupaten Sumbawa|kabupaten-sumbawa|Kabupaten|2026-05-13 21:29:55
+67|7|Kota Gorontalo|kota-gorontalo|Kota|2026-05-13 19:52:53
+284|21|Kota Tidore Kepulauan|kota-tidore-kepulauan|Kota|2026-05-13 21:27:47
+344|27|Kabupaten Tolikara|kabupaten-tolikara|Kabupaten|2026-05-13 21:50:52
+431|35|Kabupaten Bolaang Mongondow|kabupaten-bolaang-mongondow|Kabupaten|2026-05-13 22:25:11
+289|22|Kabupaten Lombok Timur|kabupaten-lombok-timur|Kabupaten|2026-05-13 21:29:15
+102|9|Kota Cirebon|kota-cirebon|Kota|2026-05-13 20:13:31
+239|17|Kabupaten Belitung|kabupaten-belitung|Kabupaten|2026-05-13 21:12:22
+443|35|Kota Kotamobagu|kota-kotamobagu|Kota|2026-05-13 22:29:32
+317|24|Kabupaten Biak Numfor|kabupaten-biak-numfor|Kabupaten|2026-05-13 21:39:23
+343|27|Kabupaten Pegunungan Bintang|kabupaten-pegunungan-bintang|Kabupaten|2026-05-13 21:50:00
+415|34|Kabupaten Buton|kabupaten-buton|Kabupaten|2026-05-13 22:19:26
+101|9|Kota Cimahi|kota-cimahi|Kota|2026-05-13 20:13:27
+208|14|Kabupaten Barito Utara|kabupaten-barito-utara|Kabupaten|2026-05-13 21:03:15
+328|25|Kabupaten Manokwari|kabupaten-manokwari|Kabupaten|2026-05-13 21:42:35
+112|10|Kabupaten Cilacap|kabupaten-cilacap|Kabupaten|2026-05-13 20:17:56
+437|35|Kabupaten Kepulauan Talaud|kabupaten-kepulauan-talaud|Kabupaten|2026-05-13 22:26:58
+271|20|Kabupaten Seram Bagian Barat|kabupaten-seram-bagian-barat|Kabupaten|2026-05-13 21:24:11
+135|10|Kota Magelang|kota-magelang|Kota|2026-05-13 20:30:58
+444|35|Kota Manado|kota-manado|Kota|2026-05-13 22:29:39
+503|38|Kabupaten Tapanuli Selatan|kabupaten-tapanuli-selatan|Kabupaten|2026-05-13 22:52:46
+453|36|Kabupaten Pesisir Selatan|kabupaten-pesisir-selatan|Kabupaten|2026-05-13 22:32:16
+354|29|Kabupaten Mimika|kabupaten-mimika|Kabupaten|2026-05-13 21:56:18
+237|17|Kabupaten Bangka Selatan|kabupaten-bangka-selatan|Kabupaten|2026-05-13 21:11:57
+403|33|Kabupaten Banggai Laut|kabupaten-banggai-laut|Kabupaten|2026-05-13 22:14:46
+501|38|Kabupaten Serdang Bedagai|kabupaten-serdang-bedagai|Kabupaten|2026-05-13 22:51:10
+456|36|Kabupaten Solok Selatan|kabupaten-solok-selatan|Kabupaten|2026-05-13 22:33:16
+500|38|Kabupaten Samosir|kabupaten-samosir|Kabupaten|2026-05-13 22:50:52
+301|23|Kabupaten Lembata|kabupaten-lembata|Kabupaten|2026-05-13 21:34:10
+483|38|Kabupaten Batu Bara|kabupaten-batu-bara|Kabupaten|2026-05-13 22:42:51
+275|21|Kabupaten Halmahera Barat|kabupaten-halmahera-barat|Kabupaten|2026-05-13 21:25:05
+39|3|Kota Tangerang|kota-tangerang|Kota|2026-05-13 19:40:37
+119|10|Kabupaten Klaten|kabupaten-klaten|Kabupaten|2026-05-13 20:22:14
+299|23|Kabupaten Flores Timur|kabupaten-flores-timur|Kabupaten|2026-05-13 21:33:01
+285|22|Kabupaten Bima|kabupaten-bima|Kabupaten|2026-05-13 21:28:01
+464|36|Kota Solok|kota-solok|Kota|2026-05-13 22:34:37
+177|11|Kota Probolinggo|kota-probolinggo|Kota|2026-05-13 20:50:30
+23|1|Kota Subulussalam|kota-subulussalam|Kota|2026-05-13 19:32:57
+230|16|Kabupaten Bulungan|kabupaten-bulungan|Kabupaten|2026-05-13 21:09:59
+82|9|Kabupaten Bogor|kabupaten-bogor|Kabupaten|2026-05-13 19:59:36
+462|36|Kota Payakumbuh|kota-payakumbuh|Kota|2026-05-13 22:34:21
+238|17|Kabupaten Bangka Tengah|kabupaten-bangka-tengah|Kabupaten|2026-05-13 21:12:09
+143|11|Kabupaten Blitar|kabupaten-blitar|Kabupaten|2026-05-13 20:33:04
+472|37|Kabupaten Ogan Ilir|kabupaten-ogan-ilir|Kabupaten|2026-05-13 22:38:17
+86|9|Kabupaten Garut|kabupaten-garut|Kabupaten|2026-05-13 20:03:42
+486|38|Kabupaten Humbang Hasundutan|kabupaten-humbang-hasundutan|Kabupaten|2026-05-13 22:44:29
+153|11|Kabupaten Magetan|kabupaten-magetan|Kabupaten|2026-05-13 20:39:43
+409|33|Kabupaten Poso|kabupaten-poso|Kabupaten|2026-05-13 22:17:02
+196|13|Kabupaten Hulu Sungai Selatan|kabupaten-hulu-sungai-selatan|Kabupaten|2026-05-13 20:59:09
+296|23|Kabupaten Alor|kabupaten-alor|Kabupaten|2026-05-13 21:31:44
+232|16|Kabupaten Nunukan|kabupaten-nunukan|Kabupaten|2026-05-13 21:10:39
+104|9|Kota Sukabumi|kota-sukabumi|Kota|2026-05-13 20:13:52
+214|14|Kabupaten Lamandau|kabupaten-lamandau|Kabupaten|2026-05-13 21:05:30
+360|30|Kabupaten Indragiri Hilir|kabupaten-indragiri-hilir|Kabupaten|2026-05-13 21:59:12
+513|38|Kota Tanjung Balai|kota-tanjung-balai|Kota|2026-05-13 22:56:31
+41|4|Kabupaten Bengkulu Selatan|kabupaten-bengkulu-selatan|Kabupaten|2026-05-13 19:42:10
+262|19|Kota Bandar Lampung|kota-bandar-lampung|Kota|2026-05-13 21:21:14
+367|30|Kabupaten Rokan Hulu|kabupaten-rokan-hulu|Kabupaten|2026-05-13 22:02:10
+27|2|Kabupaten Gianyar|kabupaten-gianyar|Kabupaten|2026-05-13 19:34:03
+233|16|Kabupaten Tana Tidung|kabupaten-tana-tidung|Kabupaten|2026-05-13 21:11:17
+220|15|Kabupaten Berau|kabupaten-berau|Kabupaten|2026-05-13 21:06:56
+211|14|Kabupaten Katingan|kabupaten-katingan|Kabupaten|2026-05-13 21:04:24
+66|7|Kabupaten Pahuwato|kabupaten-pahuwato|Kabupaten|2026-05-13 19:52:31
+336|26|Kabupaten Sorong Selatan|kabupaten-sorong-selatan|Kabupaten|2026-05-13 21:45:56
+150|11|Kabupaten Lamongan|kabupaten-lamongan|Kabupaten|2026-05-13 20:37:56
+267|20|Kabupaten Kepulauan Tanimbar|kabupaten-kepulauan-tanimbar|Kabupaten|2026-05-13 21:22:37
+442|35|Kota Bitung|kota-bitung|Kota|2026-05-13 22:29:19
+142|11|Kabupaten Banyuwangi|kabupaten-banyuwangi|Kabupaten|2026-05-13 20:32:28
+170|11|Kota Batu|kota-batu|Kota|2026-05-13 20:49:45
+448|36|Kabupaten Kepulauan Mentawai|kabupaten-kepulauan-mentawai|Kabupaten|2026-05-13 22:30:44
+428|34|Kabupaten Wakatobi|kabupaten-wakatobi|Kabupaten|2026-05-13 22:24:27
+21|1|Kota Lhokseumawe|kota-lhokseumawe|Kota|2026-05-13 19:32:39
+178|11|Kota Surabaya|kota-surabaya|Kota|2026-05-13 20:50:37
+266|20|Kabupaten Kepulauan Aru|kabupaten-kepulauan-aru|Kabupaten|2026-05-13 21:22:19
+458|36|Kota Bukittinggi|kota-bukittinggi|Kota|2026-05-13 22:33:46
+36|3|Kabupaten Tangerang|kabupaten-tangerang|Kabupaten|2026-05-13 19:39:05
+22|1|Kota Sabang|kota-sabang|Kota|2026-05-13 19:32:51
+247|18|Kota Batam|kota-batam|Kota|2026-05-13 21:14:35
+80|9|Kabupaten Bandung Barat|kabupaten-bandung-barat|Kabupaten|2026-05-13 19:58:31
+251|19|Kabupaten Lampung Tengah|kabupaten-lampung-tengah|Kabupaten|2026-05-13 21:15:59
+424|34|Kabupaten Konawe Selatan|kabupaten-konawe-selatan|Kabupaten|2026-05-13 22:22:25
+8|1|Kabupaten Aceh Tengah|kabupaten-aceh-tengah|Kabupaten|2026-05-13 19:22:15
+94|9|Kabupaten Sukabumi|kabupaten-sukabumi|Kabupaten|2026-05-13 20:09:34
+30|2|Kabupaten Klungkung|kabupaten-klungkung|Kabupaten|2026-05-13 19:34:50
+194|13|Kabupaten Banjar|kabupaten-banjar|Kabupaten|2026-05-13 20:57:47
+172|11|Kota Kediri|kota-kediri|Kota|2026-05-13 20:49:55
+217|14|Kabupaten Seruyan|kabupaten-seruyan|Kabupaten|2026-05-13 21:06:19
+337|26|Kabupaten Tambrauw|kabupaten-tambrauw|Kabupaten|2026-05-13 21:46:17
+243|18|Kabupaten Karimun|kabupaten-karimun|Kabupaten|2026-05-13 21:13:16
+493|38|Kabupaten Nias|kabupaten-nias|Kabupaten|2026-05-13 22:47:29
+199|13|Kabupaten Kotabaru|kabupaten-kotabaru|Kota|2026-05-13 21:00:17
+203|13|Kabupaten Tapin|kabupaten-tapin|Kabupaten|2026-05-13 21:02:02
+459|36|Kota Padang|kota-padang|Kota|2026-05-13 22:33:51
+133|10|Kabupaten Wonogiri|kabupaten-wonogiri|Kabupaten|2026-05-13 20:29:49
+389|32|Kabupaten Pangkajene Kepulauan|kabupaten-pangkajene-kepulauan|Kabupaten|2026-05-13 22:09:40
+195|13|Kabupaten Barito Kuala|kabupaten-barito-kuala|Kabupaten|2026-05-13 20:58:36
+98|9|Kota Banjar|kota-banjar|Kota|2026-05-13 20:12:54
+163|11|Kabupaten Sampang|kabupaten-sampang|Kabupaten|2026-05-13 20:45:29
+84|9|Kabupaten Cianjur|kabupaten-cianjur|Kabupaten|2026-05-13 20:01:34
+55|5|Kota Yogyakarta|kota-yogyakarta|Kota|2026-05-13 19:49:08
+361|30|Kabupaten Indragiri Hulu|kabupaten-indragiri-hulu|Kabupaten|2026-05-13 21:59:46
+38|3|Kota Serang|kota-serang|Kota|2026-05-13 19:40:24
+223|15|Kabupaten Kutai Timur|kabupaten-kutai-timur|Kabupaten|2026-05-13 21:08:21
+120|10|Kabupaten Kudus|kabupaten-kudus|Kabupaten|2026-05-13 20:23:04
+93|9|Kabupaten Subang|kabupaten-subang|Kabupaten|2026-05-13 20:08:51
+130|10|Kabupaten Sukoharjo|kabupaten-sukoharjo|Kabupaten|2026-05-13 20:28:23
+304|23|Kabupaten Manggarai Barat|kabupaten-manggarai-barat|Kabupaten|2026-05-13 21:35:03
+125|10|Kabupaten Purbalingga|kabupaten-purbalingga|Kabupaten|2026-05-13 20:25:38
+191|12|Kota Pontianak|kota-pontianak|Kota|2026-05-13 20:57:08
+511|38|Kota Pematangsiantar|kota-pematangsiantar|Kota|2026-05-13 22:56:13
+134|10|Kabupaten Wonosobo|kabupaten-wonosobo|Kabupaten|2026-05-13 20:30:28
+173|11|Kota Madiun|kota-madiun|Kota|2026-05-13 20:50:02
+333|26|Kabupaten Maybrat|kabupaten-maybrat|Kabupaten|2026-05-13 21:44:07
+226|15|Kabupaten Penajam Paser Utara|kabupaten-penajam-paser-utara|Kabupaten|2026-05-13 21:09:21
+379|32|Kabupaten Bone|kabupaten-bone|Kabupaten|2026-05-13 22:05:31
+368|30|Kabupaten Siak|kabupaten-siak|Kabupaten|2026-05-13 22:02:34
+351|29|Kabupaten Deiyai|kabupaten-deiyai|Kabupaten|2026-05-13 21:55:42
+404|33|Kabupaten Buol|kabupaten-buol|Kabupaten|2026-05-13 22:14:58
+465|37|Kabupaten Banyuasin|kabupaten-banyuasin|Kabupaten|2026-05-13 22:34:40
+52|5|Kabupaten Gunungkidul|kabupaten-gunungkidul|Kabupaten|2026-05-13 19:47:30
+457|36|Kabupaten Tanah Datar|kabupaten-tanah-datar|Kabupaten|2026-05-13 22:33:26
+416|34|Kabupaten Buton Selatan|kabupaten-buton-selatan|Kabupaten|2026-05-13 22:19:39
+295|23|Kab Timor Tengah Selatan|kab-timor-tengah-selatan|Kabupaten|2026-05-13 21:30:55
+12|1|Kabupaten Bener Meriah|kabupaten-bener-meriah|Kabupaten|2026-05-13 19:26:50
+279|21|Kabupaten Halmahera Utara|kabupaten-halmahera-utara|Kabupaten|2026-05-13 21:26:32
+320|24|Kabupaten Kepulauan Yapen|kabupaten-kepulauan-yapen|Kabupaten|2026-05-13 21:40:38
+63|7|Kabupaten Bone Bolango|kabupaten-bone-bolango|Kabupaten|2026-05-13 19:50:59
+315|23|Kabupaten Timor Tengah Utara|kabupaten-timor-tengah-utara|Kabupaten|2026-05-13 21:38:38
+329|25|Kabupaten Manokwari Selatan|kabupaten-manokwari-selatan|Kabupaten|2026-05-13 21:42:53
+111|10|Kabupaten Brebes|kabupaten-brebes|Kabupaten|2026-05-13 20:17:21
+391|32|Kabupaten Sidenreng Rappang|kabupaten-sidenreng-rappang|Kabupaten|2026-05-13 22:10:21
+352|29|Kabupaten Dogiyai|kabupaten-dogiyai|Kabupaten|2026-05-13 21:55:52
+381|32|Kabupaten Enrekang|kabupaten-enrekang|Kabupaten|2026-05-13 22:06:33
+380|32|Kabupaten Bulukumba|kabupaten-bulukumba|Kabupaten|2026-05-13 22:06:16
+400|32|Kota Pare Pare|kota-pare-pare|Kota|2026-05-13 22:13:32
+160|11|Kabupaten Pasuruan|kabupaten-pasuruan|Kabupaten|2026-05-13 20:43:24
+476|37|Kabupaten Ogan Komering Ulu Timur|kabupaten-ogan-komering-ulu-timur|Kabupaten|2026-05-13 22:40:22
+484|38|Kabupaten Dairi|kabupaten-dairi|Kabupaten|2026-05-13 22:43:13
+490|38|Kabupaten Labuhanbatu Utara|kabupaten-labuhanbatu-utara|Kabupaten|2026-05-13 22:45:46
+206|14|Kabupaten Barito Selatan|kabupaten-barito-selatan|Kabupaten|2026-05-13 21:02:44
+393|32|Kabupaten Soppeng|kabupaten-soppeng|Kabupaten|2026-05-13 22:10:55
+257|19|Kabupaten Pringsewu|kabupaten-pringsewu|Kabupaten|2026-05-13 21:19:06
+432|35|Kabupaten Bolaang Mongondow Selatan|kabupaten-bolaang-mongondow-selatan|Kabupaten|2026-05-13 22:25:39
+192|12|Kota Singkawang|kota-singkawang|Kota|2026-05-13 20:57:17
+298|23|Kabupaten Ende|kabupaten-ende|Kabupaten|2026-05-13 21:32:26
+73|8|Kabupaten Sarolangun|kabupaten-sarolangun|Kabupaten|2026-05-13 19:55:36
+273|20|Kota Ambon|kota-ambon|Kota|2026-05-13 21:24:51
+276|21|Kabupaten Halmahera Selatan|kabupaten-halmahera-selatan|Kabupaten|2026-05-13 21:25:23
+236|17|Kabupaten Bangka Barat|kabupaten-bangka-barat|Kabupaten|2026-05-13 21:11:46
+186|12|Kabupaten Mempawah|kabupaten-mempawah|Kabupaten|2026-05-13 20:54:48
+260|19|Kabupaten Tulang Bawang Barat|kabupaten-tulang-bawang-barat|Kabupaten|2026-05-13 21:20:29
+50|4|Kota Bengkulu|kota-bengkulu|Kota|2026-05-13 19:46:38
+205|13|Kota Banjarmasin|kota-banjarmasin|Kota|2026-05-13 21:02:32
+510|38|Kota Padangsidimpuan|kota-padangsidimpuan|Kota|2026-05-13 22:56:01
+307|23|Kabupaten Ngada|kabupaten-ngada|Kabupaten|2026-05-13 21:35:58
+99|9|Kota Bekasi|kota-bekasi|Kota|2026-05-13 20:13:01
+108|10|Kabupaten Batang|kabupaten-batang|Kabupaten|2026-05-13 20:15:37
+137|10|Kota Salatiga|kota-salatiga|Kota|2026-05-13 20:31:08
+154|11|Kabupaten Malang|kabupaten-malang|Kabupaten|2026-05-13 20:40:12
+146|11|Kabupaten Gresik|kabupaten-gresik|Kabupaten|2026-05-13 20:35:08
+302|23|Kabupaten Malaka|kabupaten-malaka|Kabupaten|2026-05-13 21:34:27
+310|23|Kabupaten Sikka|kabupaten-sikka|Kabupaten|2026-05-13 21:36:48
+167|11|Kabupaten Trenggalek|kabupaten-trenggalek|Kabupaten|2026-05-13 20:47:46
+264|20|Kabupaten Buru|kabupaten-buru|Kabupaten|2026-05-13 21:21:51
+252|19|Kabupaten Lampung Timur|kabupaten-lampung-timur|Kabupaten|2026-05-13 21:16:48
+57|6|Kota Jakarta Barat|kota-jakarta-barat|Kota|2026-05-13 19:49:32
+110|10|Kabupaten Boyolali|kabupaten-boyolali|Kabupaten|2026-05-13 20:16:43
+398|32|Kota Makassar|kota-makassar|Kota|2026-05-13 22:12:56
+473|37|Kabupaten Ogan Komering Ilir|kabupaten-ogan-komering-ilir|Kabupaten|2026-05-13 22:38:48
+263|19|Kota Metro|kota-metro|Kota|2026-05-13 21:21:43
+4|1|Kabupaten Aceh Jaya|kabupaten-aceh-jaya|Kabupaten|2026-05-13 19:20:23
+505|38|Kabupaten Tapanuli Utara|kabupaten-tapanuli-utara|Kabupaten|2026-05-13 22:54:03
+244|18|Kabupaten Kepulauan Anambas|kabupaten-kepulauan-anambas|Kabupaten|2026-05-13 21:13:36
+335|26|Kabupaten Sorong|kabupaten-sorong|Kabupaten|2026-05-13 21:45:13
+377|32|Kabupaten Bantaeng|kabupaten-bantaeng|Kabupaten|2026-05-13 22:05:10
+179|12|Kabupaten Bengkayang|kabupaten-bengkayang|Kabupaten|2026-05-13 20:51:20
+481|37|Kota Prabumulih|kota-prabumulih|Kota|2026-05-13 22:42:01
+339|27|Kabupaten Jayawijaya|kabupaten-jayawijaya|Kabupaten|2026-05-13 21:47:08
+288|22|Kabupaten Lombok Tengah|kabupaten-lombok-tengah|Kabupaten|2026-05-13 21:28:55
+200|13|Kabupaten Tabalong|kabupaten-tabalong|Kabupaten|2026-05-13 21:00:55
+455|36|Kabupaten Solok|kabupaten-solok|Kabupaten|2026-05-13 22:32:57
+231|16|Kabupaten Malinau|kabupaten-malinau|Kabupaten|2026-05-13 21:10:16
+245|18|Kabupaten Lingga|kabupaten-lingga|Kabupaten|2026-05-13 21:13:51
+290|22|Kabupaten Lombok Utara|kabupaten-lombok-utara|Kabupaten|2026-05-13 21:29:47
+345|27|Kabupaten Yahukimo|kabupaten-yahukimo|Kabupaten|2026-05-13 21:52:02
+182|12|Kabupaten Ketapang|kabupaten-ketapang|Kabupaten|2026-05-13 20:52:37
+175|11|Kota Mojokerto|kota-mojokerto|Kota|2026-05-13 20:50:18
+452|36|Kabupaten Pasaman Barat|kabupaten-pasaman-barat|Kabupaten|2026-05-13 22:31:58
+79|9|Kabupaten Bandung|kabupaten-bandung|Kabupaten|2026-05-13 19:57:39
+158|11|Kabupaten Pacitan|kabupaten-pacitan|Kabupaten|2026-05-13 20:42:36
+183|12|Kabupaten Kubu Raya|kabupaten-kubu-raya|Kabupaten|2026-05-13 20:53:14
+375|31|Kabupaten Pasangkayu|kabupaten-pasangkayu|Kabupaten|2026-05-13 22:04:30
+254|19|Kabupaten Mesuji|kabupaten-mesuji|Kabupaten|2026-05-13 21:18:10
+145|11|Kabupaten Bondowoso|kabupaten-bondowoso|Kabupaten|2026-05-13 20:34:29
+197|13|Kabupaten Hulu Sungai Tengah|kabupaten-hulu-sungai-tengah|Kabupaten|2026-05-13 20:59:30
+358|29|Kabupaten Puncak Jaya|kabupaten-puncak-jaya|Kabupaten|2026-05-13 21:58:12
+58|6|Kota Jakarta Pusat|kota-jakarta-pusat|Kota|2026-05-13 19:49:46
+3|1|Kabupaten Aceh Besar|kabupaten-aceh-besar|Kabupaten|2026-05-13 19:19:12
+373|31|Kabupaten Mamuju|kabupaten-mamuju|Kabupaten|2026-05-13 22:04:05
+422|34|Kabupaten Konawe|kabupaten-konawe|Kabupaten|2026-05-13 22:21:23
+347|28|Kabupaten Asmat|kabupaten-asmat|Kabupaten|2026-05-13 21:53:40
+45|4|Kabupaten Kepahiang|kabupaten-kepahiang|Kabupaten|2026-05-13 19:44:19
+450|36|Kabupaten Padang Pariaman|kabupaten-padang-pariaman|Kabupaten|2026-05-13 22:31:18
+323|24|Kabupaten Supiori|kabupaten-supiori|Kabupaten|2026-05-13 21:41:28
+164|11|Kabupaten Sidoarjo|kabupaten-sidoarjo|Kabupaten|2026-05-13 20:45:52
+407|33|Kabupaten Morowali Utara|kabupaten-morowali-utara|Kabupaten|2026-05-13 22:16:02
+430|34|Kota Kendari|kota-kendari|Kota|2026-05-13 22:24:54
+366|30|Kabupaten Rokan Hilir|kabupaten-rokan-hilir|Kabupaten|2026-05-13 22:01:43
+70|8|Kabupaten Kerinci|kabupaten-kerinci|Kabupaten|2026-05-13 19:53:54
+287|22|Kabupaten Lombok Barat|kabupaten-lombok-barat|Kabupaten|2026-05-13 21:28:40
+512|38|Kota Sibolga|kota-sibolga|Kota|2026-05-13 22:56:25
+65|7|Kabupaten Gorontalo Utara|kabupaten-gorontalo-utara|Kabupaten|2026-05-13 19:52:10
+282|21|Kabupaten Pulau Taliabu|kabupaten-pulau-taliabu|Kabupaten|2026-05-13 21:27:23
+348|28|Kabupaten Boven Digoel|kabupaten-boven-digoel|Kabupaten|2026-05-13 21:54:14
+148|11|Kabupaten Jombang|kabupaten-jombang|Kabupaten|2026-05-13 20:36:34
+401|33|Kabupaten Banggai|kabupaten-banggai|Kabupaten|2026-05-13 22:13:39
+140|10|Kota Tegal|kota-tegal|Kota|2026-05-13 20:31:48
+180|12|Kabupaten Kapuas Hulu|kabupaten-kapuas-hulu|Kabupaten|2026-05-13 20:51:48
+258|19|Kabupaten Tanggamus|kabupaten-tanggamus|Kabupaten|2026-05-13 21:19:23
+384|32|Kabupaten Kepulauan Selayar|kabupaten-kepulauan-selayar|Kabupaten|2026-05-13 22:07:39
+235|17|Kabupaten Bangka|kabupaten-bangka|Kabupaten|2026-05-13 21:11:32
+250|19|Kabupaten Lampung Selatan|kabupaten-lampung-selatan|Kabupaten|2026-05-13 21:15:25
+107|10|Kabupaten Banyumas|kabupaten-banyumas|Kabupaten|2026-05-13 20:14:51
+269|20|Kabupaten Maluku Tengah|kabupaten-maluku-tengah|Kabupaten|2026-05-13 21:23:20
+19|1|Kota Banda Aceh|kota-banda-aceh|Kota|2026-05-13 19:32:06
+364|30|Kabupaten Kuantan Singingi|kabupaten-kuantan-singingi|Kabupaten|2026-05-13 22:01:00
+51|5|Kabupaten Bantul|kabupaten-bantul|Kabupaten|2026-05-13 19:46:59
+504|38|Kabupaten Tapanuli Tengah|kabupaten-tapanuli-tengah|Kabupaten|2026-05-13 22:53:26
+330|25|Kabupaten Pegunungan Arfak|kabupaten-pegunungan-arfak|Kabupaten|2026-05-13 21:43:02
+303|23|Kabupaten Manggarai|kabupaten-manggarai|Kabupaten|2026-05-13 21:34:43
+261|19|Kabupaten Way Kanan|kabupaten-way-kanan|Kabupaten|2026-05-13 21:20:46
+332|25|Kabupaten Teluk Wondama|kabupaten-teluk-wondama|Kabupaten|2026-05-13 21:43:49
+390|32|Kabupaten Pinrang|kabupaten-pinrang|Kabupaten|2026-05-13 22:10:00
+242|18|Kabupaten Bintan|kabupaten-bintan|Kabupaten|2026-05-13 21:12:57
+71|8|Kabupaten Merangin|kabupaten-merangin|Kabupaten|2026-05-13 19:54:31
+466|37|Kabupaten Empat Lawang|kabupaten-empat-lawang|Kabupaten|2026-05-13 22:35:22
+313|23|Kabupaten Sumba Tengah|kabupaten-sumba-tengah|Kabupaten|2026-05-13 21:37:55
+190|12|Kabupaten Sintang|kabupaten-sintang|Kabupaten|2026-05-13 20:56:23
+326|25|Kabupaten Fak Fak|kabupaten-fak-fak|Kabupaten|2026-05-13 21:41:59
+308|23|Kabupaten Rote Ndao|kabupaten-rote-ndao|Kabupaten|2026-05-13 21:36:21
+383|32|Kabupaten Jeneponto|kabupaten-jeneponto|Kabupaten|2026-05-13 22:07:21
+157|11|Kabupaten Ngawi|kabupaten-ngawi|Kabupaten|2026-05-13 20:42:08
+31|2|Kabupaten Tabanan|kabupaten-tabanan|Kabupaten|2026-05-13 19:35:00
+350|28|Kabupaten Merauke|kabupaten-merauke|Kabupaten|2026-05-13 21:55:10
+141|11|Kabupaten Bangkalan|kabupaten-bangkalan|Kabupaten|2026-05-13 20:31:55
+449|36|Kabupaten Lima Puluh Kota|kabupaten-lima-puluh-kota|Kota|2026-05-13 22:30:58
+311|23|Kabupaten Sumba Barat|kabupaten-sumba-barat|Kabupaten|2026-05-13 21:37:19
+440|35|Kabupaten Minahasa Tenggara|kabupaten-minahasa-tenggara|Kabupaten|2026-05-13 22:28:38
+499|38|Kabupaten Pakpak Bharat|kabupaten-pakpak-bharat|Kabupaten|2026-05-13 22:50:39
+479|37|Kota Pagar Alam|kota-pagar-alam|Kota|2026-05-13 22:41:24
+305|23|Kabupaten Manggarai Timur|kabupaten-manggarai-timur|Kabupaten|2026-05-13 21:35:24
+210|14|Kabupaten Kapuas|kabupaten-kapuas|Kabupaten|2026-05-13 21:03:52
+438|35|Kabupaten Minahasa|kabupaten-minahasa|Kabupaten|2026-05-13 22:27:28
+162|11|Kabupaten Probolinggo|kabupaten-probolinggo|Kabupaten|2026-05-13 20:44:47
+212|14|Kabupaten Kotawaringin Barat|kabupaten-kotawaringin-barat|Kota|2026-05-13 21:04:49
+445|35|Kota Tomohon|kota-tomohon|Kota|2026-05-13 22:29:57
+359|30|Kabupaten Bengkalis|kabupaten-bengkalis|Kabupaten|2026-05-13 21:58:53
+378|32|Kabupaten Barru|kabupaten-barru|Kabupaten|2026-05-13 22:05:21
+471|37|Kabupaten Musi Rawas Utara|kabupaten-musi-rawas-utara|Kabupaten|2026-05-13 22:38:05
+165|11|Kabupaten Situbondo|kabupaten-situbondo|Kabupaten|2026-05-13 20:46:31
+176|11|Kota Pasuruan|kota-pasuruan|Kota|2026-05-13 20:50:23
+370|30|Kota Pekanbaru|kota-pekanbaru|Kota|2026-05-13 22:03:03
+116|10|Kabupaten Karanganyar|kabupaten-karanganyar|Kabupaten|2026-05-13 20:20:14
+314|23|Kabupaten Sumba Timur|kabupaten-sumba-timur|Kabupaten|2026-05-13 21:38:07
+189|12|Kabupaten Sekadau|kabupaten-sekadau|Kabupaten|2026-05-13 20:56:09
+446|36|Kabupaten Agam|kabupaten-agam|Kabupaten|2026-05-13 22:30:07
+474|37|Kabupaten Ogan Komering Ulu|kabupaten-ogan-komering-ulu|Kabupaten|2026-05-13 22:39:25
+426|34|Kabupaten Muna|kabupaten-muna|Kabupaten|2026-05-13 22:23:37
+280|21|Kabupaten Kepulauan Sula|kabupaten-kepulauan-sula|Kabupaten|2026-05-13 21:26:58
+429|34|Kota Bau Bau|kota-bau-bau|Kota|2026-05-13 22:24:42
+399|32|Kota Palopo|kota-palopo|Kota|2026-05-13 22:13:20
+372|31|Kabupaten Mamasa|kabupaten-mamasa|Kabupaten|2026-05-13 22:03:39
+394|32|Kabupaten Takalar|kabupaten-takalar|Kabupaten|2026-05-13 22:11:07
+29|2|Kabupaten Karangasem|kabupaten-karangasem|Kabupaten|2026-05-13 19:34:30
+204|13|Kota Banjarbaru|kota-banjarbaru|Kota|2026-05-13 21:02:26
+89|9|Kabupaten Kuningan|kabupaten-kuningan|Kabupaten|2026-05-13 20:06:34
+40|3|Kota Tangerang Selatan|kota-tangerang-selatan|Kota|2026-05-13 19:41:47
+109|10|Kabupaten Blora|kabupaten-blora|Kabupaten|2026-05-13 20:16:08
+47|4|Kabupaten Muko Muko|kabupaten-muko-muko|Kabupaten|2026-05-13 19:44:57
+88|9|Kabupaten Karawang|kabupaten-karawang|Kabupaten|2026-05-13 20:05:44
+76|8|Kabupaten Tebo|kabupaten-tebo|Kabupaten|2026-05-13 19:56:48
+224|15|Kabupaten Mahakam Ulu|kabupaten-mahakam-ulu|Kabupaten|2026-05-13 21:08:51
+506|38|Kabupaten Toba|kabupaten-toba|Kabupaten|2026-05-13 22:54:33
+228|15|Kota Bontang|kota-bontang|Kota|2026-05-13 21:09:38
+48|4|Kabupaten Rejang Lebong|kabupaten-rejang-lebong|Kabupaten|2026-05-13 19:45:28
+338|26|Kota Sorong|kota-sorong|Kota|2026-05-13 21:46:56
+497|38|Kabupaten Padang Lawas|kabupaten-padang-lawas|Kabupaten|2026-05-13 22:49:27
+382|32|Kabupaten Gowa|kabupaten-gowa|Kabupaten|2026-05-13 22:06:52
+485|38|Kabupaten Deli Serdang|kabupaten-deli-serdang|Kabupaten|2026-05-13 22:43:39
+34|3|Kabupaten Pandeglang|kabupaten-pandeglang|Kabupaten|2026-05-13 19:36:43
+386|32|Kabupaten Luwu Timur|kabupaten-luwu-timur|Kabupaten|2026-05-13 22:08:33
+207|14|Kabupaten Barito Timur|kabupaten-barito-timur|Kabupaten|2026-05-13 21:02:57
+376|31|Kabupaten Polewali Mandar|kabupaten-polewali-mandar|Kabupaten|2026-05-13 22:04:45
+277|21|Kabupaten Halmahera Tengah|kabupaten-halmahera-tengah|Kabupaten|2026-05-13 21:26:04
+61|6|Kota Jakarta Utara|kota-jakarta-utara|Kota|2026-05-13 19:50:36
+161|11|Kabupaten Ponorogo|kabupaten-ponorogo|Kabupaten|2026-05-13 20:44:13
+495|38|Kabupaten Nias Selatan|kabupaten-nias-selatan|Kabupaten|2026-05-13 22:48:06
+6|1|Kabupaten Aceh Singkil|kabupaten-aceh-singkil|Kabupaten|2026-05-13 19:21:24
+411|33|Kabupaten Tojo Una Una|kabupaten-tojo-una-una|Kabupaten|2026-05-13 22:17:59
+171|11|Kota Blitar|kota-blitar|Kota|2026-05-13 20:49:50
+454|36|Kabupaten Sijunjung|kabupaten-sijunjung|Kabupaten|2026-05-13 22:32:42
+209|14|Kabupaten Gunung Mas|kabupaten-gunung-mas|Kabupaten|2026-05-13 21:03:31
+198|13|Kabupaten Hulu Sungai Utara|kabupaten-hulu-sungai-utara|Kabupaten|2026-05-13 20:59:51
+413|33|Kota Palu|kota-palu|Kota|2026-05-13 22:18:39
+293|22|Kota Bima|kota-bima|Kota|2026-05-13 21:30:38
+487|38|Kabupaten Karo|kabupaten-karo|Kabupaten|2026-05-13 22:44:49
+100|9|Kota Bogor|kota-bogor|Kota|2026-05-13 20:13:16
+319|24|Kabupaten Keerom|kabupaten-keerom|Kabupaten|2026-05-13 21:40:20
+408|33|Kabupaten Parigi Moutong|kabupaten-parigi-moutong|Kabupaten|2026-05-13 22:16:21
+60|6|Kota Jakarta Timur|kota-jakarta-timur|Kota|2026-05-13 19:50:19
+90|9|Kabupaten Majalengka|kabupaten-majalengka|Kabupaten|2026-05-13 20:07:30
+25|2|Kabupaten Bangli|kabupaten-bangli|Kabupaten|2026-05-13 19:33:25
+385|32|Kabupaten Luwu|kabupaten-luwu|Kabupaten|2026-05-13 22:07:56
+59|6|Kota Jakarta Selatan|kota-jakarta-selatan|Kota|2026-05-13 19:50:00
+365|30|Kabupaten Pelalawan|kabupaten-pelalawan|Kabupaten|2026-05-13 22:01:25
+421|34|Kabupaten Kolaka Utara|kabupaten-kolaka-utara|Kabupaten|2026-05-13 22:20:56
+147|11|Kabupaten Jember|kabupaten-jember|Kabupaten|2026-05-13 20:35:50
+349|28|Kabupaten Mappi|kabupaten-mappi|Kabupaten|2026-05-13 21:54:46
+126|10|Kabupaten Purworejo|kabupaten-purworejo|Kabupaten|2026-05-13 20:26:09
+331|25|Kabupaten Teluk Bintuni|kabupaten-teluk-bintuni|Kabupaten|2026-05-13 21:43:21
+43|4|Kabupaten Bengkulu Utara|kabupaten-bengkulu-utara|Kabupaten|2026-05-13 19:43:06
+156|11|Kabupaten Nganjuk|kabupaten-nganjuk|Kabupaten|2026-05-13 20:41:35
+44|4|Kabupaten Kaur|kabupaten-kaur|Kabupaten|2026-05-13 19:43:48
+248|18|Kota Tanjung Pinang|kota-tanjung-pinang|Kota|2026-05-13 21:14:52
+181|12|Kabupaten Kayong Utara|kabupaten-kayong-utara|Kabupaten|2026-05-13 20:52:28
+26|2|Kabupaten Buleleng|kabupaten-buleleng|Kabupaten|2026-05-13 19:33:37
+362|30|Kabupaten Kampar|kabupaten-kampar|Kabupaten|2026-05-13 22:00:13
+514|38|Kota Tebing Tinggi|kota-tebing-tinggi|Kota|2026-05-13 22:56:40
+241|17|Kota Pangkal Pinang|kota-pangkal-pinang|Kota|2026-05-13 21:12:44
+85|9|Kabupaten Cirebon|kabupaten-cirebon|Kabupaten|2026-05-13 20:02:33
+234|16|Kota Tarakan|kota-tarakan|Kota|2026-05-13 21:11:25
+54|5|Kabupaten Sleman|kabupaten-sleman|Kabupaten|2026-05-13 19:48:37
+439|35|Kabupaten Minahasa Selatan|kabupaten-minahasa-selatan|Kabupaten|2026-05-13 22:28:10
+414|34|Kabupaten Bombana|kabupaten-bombana|Kabupaten|2026-05-13 22:18:52
+447|36|Kabupaten Dharmasraya|kabupaten-dharmasraya|Kabupaten|2026-05-13 22:30:30
+425|34|Kabupaten Konawe Utara|kabupaten-konawe-utara|Kabupaten|2026-05-13 22:23:12
+159|11|Kabupaten Pamekasan|kabupaten-pamekasan|Kabupaten|2026-05-13 20:42:57
+467|37|Kabupaten Lahat|kabupaten-lahat|Kabupaten|2026-05-13 22:35:42
+128|10|Kabupaten Semarang|kabupaten-semarang|Kabupaten|2026-05-13 20:27:21
+369|30|Kota Dumai|kota-dumai|Kota|2026-05-13 22:02:54
+420|34|Kabupaten Kolaka Timur|kabupaten-kolaka-timur|Kabupaten|2026-05-13 22:20:35
+121|10|Kabupaten Magelang|kabupaten-magelang|Kabupaten|2026-05-13 20:23:20
+127|10|Kabupaten Rembang|kabupaten-rembang|Kabupaten|2026-05-13 20:26:52
+327|25|Kabupaten Kaimana|kabupaten-kaimana|Kabupaten|2026-05-13 21:42:24
+113|10|Kabupaten Demak|kabupaten-demak|Kabupaten|2026-05-13 20:18:40
+387|32|Kabupaten Luwu Utara|kabupaten-luwu-utara|Kabupaten|2026-05-13 22:08:52
+139|10|Kota Surakarta|kota-surakarta|Kota|2026-05-13 20:31:40
+78|8|Kota Sungai Penuh|kota-sungai-penuh|Kota|2026-05-13 19:57:25
+412|33|Kabupaten Toli Toli|kabupaten-toli-toli|Kabupaten|2026-05-13 22:18:21
+283|21|Kota Ternate|kota-ternate|Kota|2026-05-13 21:27:35
+68|8|Kabupaten Batanghari|kabupaten-batanghari|Kabupaten|2026-05-13 19:53:09
+87|9|Kabupaten Indramayu|kabupaten-indramayu|Kabupaten|2026-05-13 20:04:51
+249|19|Kabupaten Lampung Barat|kabupaten-lampung-barat|Kabupaten|2026-05-13 21:15:00
+272|20|Kabupaten Seram Bagian Timur|kabupaten-seram-bagian-timur|Kabupaten|2026-05-13 21:24:27
+353|29|Kabupaten Intan Jaya|kabupaten-intan-jaya|Kabupaten|2026-05-13 21:56:05
+56|6|Kabupaten Kepulauan Seribu|kabupaten-kepulauan-seribu|Kabupaten|2026-05-13 19:49:29
+460|36|Kota Padang Panjang|kota-padang-panjang|Kota|2026-05-13 22:34:09
+498|38|Kabupaten Padang Lawas Utara|kabupaten-padang-lawas-utara|Kabupaten|2026-05-13 22:50:03
+297|23|Kabupaten Belu|kabupaten-belu|Kabupaten|2026-05-13 21:32:11
+509|38|Kota Medan|kota-medan|Kota|2026-05-13 22:55:28
+151|11|Kabupaten Lumajang|kabupaten-lumajang|Kabupaten|2026-05-13 20:38:48
+152|11|Kabupaten Madiun|kabupaten-madiun|Kabupaten|2026-05-13 20:39:18
+24|2|Kabupaten Badung|kabupaten-badung|Kabupaten|2026-05-13 19:33:12
+292|22|Kabupaten Sumbawa Barat|kabupaten-sumbawa-barat|Kabupaten|2026-05-13 21:30:26
+53|5|Kabupaten Kulon Progo|kabupaten-kulon-progo|Kabupaten|2026-05-13 19:48:11
+423|34|Kabupaten Konawe Kepulauan|kabupaten-konawe-kepulauan|Kabupaten|2026-05-13 22:22:12
+434|35|Kabupaten Bolaang Mongondow Utara|kabupaten-bolaang-mongondow-utara|Kabupaten|2026-05-13 22:26:04
+396|32|Kabupaten Toraja Utara|kabupaten-toraja-utara|Kabupaten|2026-05-13 22:11:56
+325|24|Kota Jayapura|kota-jayapura|Kota|2026-05-13 21:41:51
+10|1|Kabupaten Aceh Timur|kabupaten-aceh-timur|Kabupaten|2026-05-13 19:23:47
+268|20|Kabupaten Maluku Barat Daya|kabupaten-maluku-barat-daya|Kabupaten|2026-05-13 21:22:53
+433|35|Kabupaten Bolaang Mongondow Timur|kabupaten-bolaang-mongondow-timur|Kabupaten|2026-05-13 22:25:51
+435|35|Kabupaten Kepulauan Sangihe|kabupaten-kepulauan-sangihe|Kabupaten|2026-05-13 22:26:17
+406|33|Kabupaten Morowali|kabupaten-morowali|Kabupaten|2026-05-13 22:15:43
+17|1|Kabupaten Pidie Jaya|kabupaten-pidie-jaya|Kabupaten|2026-05-13 19:31:09
+316|23|Kota Kupang|kota-kupang|Kota|2026-05-13 21:39:14
+355|29|Kabupaten Nabire|kabupaten-nabire|Kabupaten|2026-05-13 21:56:43
+69|8|Kabupaten Bungo|kabupaten-bungo|Kabupaten|2026-05-13 19:53:26
+270|20|Kabupaten Maluku Tenggara|kabupaten-maluku-tenggara|Kabupaten|2026-05-13 21:23:50
+222|15|Kabupaten Kutai Kartanegara|kabupaten-kutai-kartanegara|Kabupaten|2026-05-13 21:07:45
+227|15|Kota Balikpapan|kota-balikpapan|Kota|2026-05-13 21:09:29
+470|37|Kabupaten Musi Rawas|kabupaten-musi-rawas|Kabupaten|2026-05-13 22:37:38
+306|23|Kabupaten Nagekeo|kabupaten-nagekeo|Kabupaten|2026-05-13 21:35:44
+213|14|Kabupaten Kotawaringin Timur|kabupaten-kotawaringin-timur|Kota|2026-05-13 21:05:01
+410|33|Kabupaten Sigi|kabupaten-sigi|Kabupaten|2026-05-13 22:17:33
+97|9|Kota Bandung|kota-bandung|Kota|2026-05-13 20:12:16
+219|14|Kota Palangkaraya|kota-palangkaraya|Kota|2026-05-13 21:06:47
+15|1|Kabupaten Nagan Raya|kabupaten-nagan-raya|Kabupaten|2026-05-13 19:29:06
+477|37|Kabupaten Penukal Abab Lematang Ilir|kabupaten-penukal-abab-lematang-ilir|Kabupaten|2026-05-13 22:41:02
+357|29|Kabupaten Puncak|kabupaten-puncak|Kabupaten|2026-05-13 21:57:37
+96|9|Kabupaten Tasikmalaya|kabupaten-tasikmalaya|Kabupaten|2026-05-13 20:11:21
+218|14|Kabupaten Sukamara|kabupaten-sukamara|Kabupaten|2026-05-13 21:06:37
+309|23|Kabupaten Sabu Raijua|kabupaten-sabu-raijua|Kabupaten|2026-05-13 21:36:38
+14|1|Kabupaten Gayo Lues|kabupaten-gayo-lues|Kabupaten|2026-05-13 19:28:39
+77|8|Kota Jambi|kota-jambi|Kota|2026-05-13 19:57:09
+340|27|Kabupaten Lanny Jaya|kabupaten-lanny-jaya|Kabupaten|2026-05-13 21:48:05
+334|26|Kabupaten Raja Ampat|kabupaten-raja-ampat|Kabupaten|2026-05-13 21:44:43
+202|13|Kabupaten Tanah Laut|kabupaten-tanah-laut|Kabupaten|2026-05-13 21:01:39
+419|34|Kabupaten Kolaka|kabupaten-kolaka|Kabupaten|2026-05-13 22:20:14
+374|31|Kabupaten Mamuju Tengah|kabupaten-mamuju-tengah|Kabupaten|2026-05-13 22:04:22
+20|1|Kota Langsa|kota-langsa|Kota|2026-05-13 19:32:26
+201|13|Kabupaten Tanah Bumbu|kabupaten-tanah-bumbu|Kabupaten|2026-05-13 21:01:17
+321|24|Kabupaten Mamberamo Raya|kabupaten-mamberamo-raya|Kabupaten|2026-05-13 21:41:02
+118|10|Kabupaten Kendal|kabupaten-kendal|Kabupaten|2026-05-13 20:21:37
+259|19|Kabupaten Tulang Bawang|kabupaten-tulang-bawang|Kabupaten|2026-05-13 21:20:04
+417|34|Kabupaten Buton Tengah|kabupaten-buton-tengah|Kabupaten|2026-05-13 22:19:51
+508|38|Kota Gunungsitoli|kota-gunungsitoli|Kota|2026-05-13 22:55:15
+5|1|Kabupaten Aceh Selatan|kabupaten-aceh-selatan|Kabupaten|2026-05-13 19:20:44
+463|36|Kota Sawahlunto|kota-sawahlunto|Kota|2026-05-13 22:34:30
+28|2|Kabupaten Jembrana|kabupaten-jembrana|Kabupaten|2026-05-13 19:34:19
+312|23|Kabupaten Sumba Barat Daya|kabupaten-sumba-barat-daya|Kabupaten|2026-05-13 21:37:31
+184|12|Kabupaten Landak|kabupaten-landak|Kabupaten|2026-05-13 20:53:32
+185|12|Kabupaten Melawi|kabupaten-melawi|Kabupaten|2026-05-13 20:54:20
+405|33|Kabupaten Donggala|kabupaten-donggala|Kabupaten|2026-05-13 22:15:16
+324|24|Kabupaten Waropen|kabupaten-waropen|Kabupaten|2026-05-13 21:41:35
+122|10|Kabupaten Pati|kabupaten-pati|Kabupaten|2026-05-13 20:24:01
+255|19|Kabupaten Pesawaran|kabupaten-pesawaran|Kabupaten|2026-05-13 21:18:25
+388|32|Kabupaten Maros|kabupaten-maros|Kabupaten|2026-05-13 22:09:18
+35|3|Kabupaten Serang|kabupaten-serang|Kabupaten|2026-05-13 19:37:58
+131|10|Kabupaten Tegal|kabupaten-tegal|Kabupaten|2026-05-13 20:28:43
+363|30|Kabupaten Kepulauan Meranti|kabupaten-kepulauan-meranti|Kabupaten|2026-05-13 22:00:46
+174|11|Kota Malang|kota-malang|Kota|2026-05-13 20:50:08
+496|38|Kabupaten Nias Utara|kabupaten-nias-utara|Kabupaten|2026-05-13 22:49:09
+115|10|Kabupaten Jepara|kabupaten-jepara|Kabupaten|2026-05-13 20:19:46
+441|35|Kabupaten Minahasa Utara|kabupaten-minahasa-utara|Kabupaten|2026-05-13 22:29:00
+81|9|Kabupaten Bekasi|kabupaten-bekasi|Kabupaten|2026-05-13 19:58:59
+278|21|Kabupaten Halmahera Timur|kabupaten-halmahera-timur|Kabupaten|2026-05-13 21:26:17
+502|38|Kabupaten Simalungun|kabupaten-simalungun|Kabupaten|2026-05-13 22:51:43
+418|34|Kabupaten Buton Utara|kabupaten-buton-utara|Kabupaten|2026-05-13 22:20:03
+215|14|Kabupaten Murung Raya|kabupaten-murung-raya|Kabupaten|2026-05-13 21:05:45
+64|7|Kabupaten Gorontalo|kabupaten-gorontalo|Kabupaten|2026-05-13 19:51:31
+221|15|Kabupaten Kutai Barat|kabupaten-kutai-barat|Kabupaten|2026-05-13 21:07:16
+13|1|Kabupaten Bireuen|kabupaten-bireuen|Kabupaten|2026-05-13 19:27:25
+392|32|Kabupaten Sinjai|kabupaten-sinjai|Kabupaten|2026-05-13 22:10:40
+124|10|Kabupaten Pemalang|kabupaten-pemalang|Kabupaten|2026-05-13 20:25:14
+169|11|Kabupaten Tulungagung|kabupaten-tulungagung|Kabupaten|2026-05-13 20:49:09
+468|37|Kabupaten Muara Enim|kabupaten-muara-enim|Kabupaten|2026-05-13 22:36:30
+187|12|Kabupaten Sambas|kabupaten-sambas|Kabupaten|2026-05-13 20:55:06
+117|10|Kabupaten Kebumen|kabupaten-kebumen|Kabupaten|2026-05-13 20:20:43
+265|20|Kabupaten Buru Selatan|kabupaten-buru-selatan|Kabupaten|2026-05-13 21:22:08
+342|27|Kabupaten Nduga|kabupaten-nduga|Kabupaten|2026-05-13 21:49:14
+62|7|Kabupaten Boalemo|kabupaten-boalemo|Kabupaten|2026-05-13 19:50:46
+427|34|Kabupaten Muna Barat|kabupaten-muna-barat|Kabupaten|2026-05-13 22:24:10
+103|9|Kota Depok|kota-depok|Kota|2026-05-13 20:13:37
+132|10|Kabupaten Temanggung|kabupaten-temanggung|Kabupaten|2026-05-13 20:29:15
+46|4|Kabupaten Lebong|kabupaten-lebong|Kabupaten|2026-05-13 19:44:35
+149|11|Kabupaten Kediri|kabupaten-kediri|Kabupaten|2026-05-13 20:37:11
+95|9|Kabupaten Sumedang|kabupaten-sumedang|Kabupaten|2026-05-13 20:10:40
+253|19|Kabupaten Lampung Utara|kabupaten-lampung-utara|Kabupaten|2026-05-13 21:17:30
+9|1|Kabupaten Aceh Tenggara|kabupaten-aceh-tenggara|Kabupaten|2026-05-13 19:22:54
+114|10|Kabupaten Grobogan|kabupaten-grobogan|Kabupaten|2026-05-13 20:19:09
+106|10|Kabupaten Banjarnegara|kabupaten-banjarnegara|Kabupaten|2026-05-13 20:14:17
+74|8|Kabupaten Tanjung Jabung Barat|kabupaten-tanjung-jabung-barat|Kabupaten|2026-05-13 19:56:06
+492|38|Kabupaten Mandailing Natal|kabupaten-mandailing-natal|Kabupaten|2026-05-13 22:46:41
+33|3|Kabupaten Lebak|kabupaten-lebak|Kabupaten|2026-05-13 19:35:36
+356|29|Kabupaten Paniai|kabupaten-paniai|Kabupaten|2026-05-13 21:57:02
+491|38|Kabupaten Langkat|kabupaten-langkat|Kabupaten|2026-05-13 22:46:00
+144|11|Kabupaten Bojonegoro|kabupaten-bojonegoro|Kabupaten|2026-05-13 20:33:38
+286|22|Kabupaten Dompu|kabupaten-dompu|Kabupaten|2026-05-13 21:28:27
+72|8|Kabupaten Muaro Jambi|kabupaten-muaro-jambi|Kabupaten|2026-05-13 19:55:14
+294|22|Kota Mataram|kota-mataram|Kota|2026-05-13 21:30:45
+123|10|Kabupaten Pekalongan|kabupaten-pekalongan|Kabupaten|2026-05-13 20:24:43
+507|38|Kota Binjai|kota-binjai|Kota|2026-05-13 22:55:07
+488|38|Kabupaten Labuhanbatu|kabupaten-labuhanbatu|Kabupaten|2026-05-13 22:45:22
+42|4|Kabupaten Bengkulu Tengah|kabupaten-bengkulu-tengah|Kabupaten|2026-05-13 19:42:39
+49|4|Kabupaten Seluma|kabupaten-seluma|Kabupaten|2026-05-13 19:46:01
+489|38|Kabupaten Labuhanbatu Selatan|kabupaten-labuhanbatu-selatan|Kabupaten|2026-05-13 22:45:38
+11|1|Kabupaten Aceh Utara|kabupaten-aceh-utara|Kabupaten|2026-05-13 19:25:02
+300|23|Kabupaten Kupang|kabupaten-kupang|Kabupaten|2026-05-13 21:33:37
+494|38|Kabupaten Nias Barat|kabupaten-nias-barat|Kabupaten|2026-05-13 22:47:51
+83|9|Kabupaten Ciamis|kabupaten-ciamis|Kabupaten|2026-05-13 20:00:48
+188|12|Kabupaten Sanggau|kabupaten-sanggau|Kabupaten|2026-05-13 20:55:42
+246|18|Kabupaten Natuna|kabupaten-natuna|Kabupaten|2026-05-13 21:14:11
+91|9|Kabupaten Pangandaran|kabupaten-pangandaran|Kabupaten|2026-05-13 20:08:11
+341|27|Kabupaten Mamberamo Tengah|kabupaten-mamberamo-tengah|Kabupaten|2026-05-13 21:49:05
+155|11|Kabupaten Mojokerto|kabupaten-mojokerto|Kabupaten|2026-05-13 20:41:02
+469|37|Kabupaten Musi Banyuasin|kabupaten-musi-banyuasin|Kabupaten|2026-05-13 22:37:08
+92|9|Kabupaten Purwakarta|kabupaten-purwakarta|Kabupaten|2026-05-13 20:08:26
+395|32|Kabupaten Tana Toraja|kabupaten-tana-toraja|Kabupaten|2026-05-13 22:11:27
+482|38|Kabupaten Asahan|kabupaten-asahan|Kabupaten|2026-05-13 22:42:10
+322|24|Kabupaten Sarmi|kabupaten-sarmi|Kabupaten|2026-05-13 21:41:13
+16|1|Kabupaten Pidie|kabupaten-pidie|Kabupaten|2026-05-13 19:29:37
+216|14|Kabupaten Pulang Pisau|kabupaten-pulang-pisau|Kabupaten|2026-05-13 21:06:04
+461|36|Kota Pariaman|kota-pariaman|Kota|2026-05-13 22:34:13
+397|32|Kabupaten Wajo|kabupaten-wajo|Kabupaten|2026-05-13 22:12:29
+274|20|Kota Tual|kota-tual|Kota|2026-05-13 21:24:58
+281|21|Kabupaten Pulau Morotai|kabupaten-pulau-morotai|Kabupaten|2026-05-13 21:27:13
